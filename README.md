@@ -17,7 +17,7 @@ A version of the list without all the fluff lives [here](/repos.md).
 
 View recent changes [here](/CHANGELOG.md).
 
-[git.new/repolist](https://git.new/repolist) - short and easy link to use for sharing (This link is generated using [dub.co](https://github.com/dubinc/dub) ⭐ 25,086 | 🐛 73 | 🌐 TypeScript | 📅 2026-10-27)
+[git.new/repolist](https://git.new/repolist) - short and easy link to use for sharing (This link is generated using [dub.co](https://github.com/dubinc/dub) ⭐ 25,096 | 🐛 73 | 🌐 TypeScript | 📅 2026-10-27)
 
 # Contribute
 
@@ -54,91 +54,91 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 ## Useful
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mifi/lossless-cut](https://github.com/mifi/lossless-cut) ⭐ 45,628 | 🐛 167 | 🌐 TypeScript | 📅 2026-11-01 - Lossless video cutting tool
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mifi/lossless-cut](https://github.com/mifi/lossless-cut) ⭐ 45,671 | 🐛 160 | 🌐 TypeScript | 📅 2026-11-03 - Lossless video cutting tool
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) ⭐ 24,864 | 🐛 298 | 🌐 C | 📅 2026-11-02 - Video transcoder
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) ⭐ 24,875 | 🐛 296 | 🌐 C | 📅 2026-11-03 - Video transcoder
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ponchio/untrunc](https://github.com/ponchio/untrunc) ⭐ 1,955 | 🐛 193 | 🌐 C++ | 📅 2024-05-23 - Restore damaged video files
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ShareX/ShareX](https://github.com/ShareX/ShareX) ⭐ 40,592 | 🐛 630 | 🌐 C# | 📅 2026-11-02 - Screen capture tool for Windows
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ShareX/ShareX](https://github.com/ShareX/ShareX) ⭐ 40,608 | 🐛 630 | 🌐 C# | 📅 2026-11-03 - Screen capture tool for Windows
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/diced/zipline](https://github.com/diced/zipline) ⭐ 3,482 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-28 - ShareX/file upload server
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/diced/zipline](https://github.com/diced/zipline) ⭐ 3,482 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-03 - ShareX/file upload server
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/hluk/CopyQ](https://github.com/hluk/CopyQ) ⭐ 12,582 | 🐛 407 | 🌐 C++ | 📅 2026-11-02 - Cross-platform clipboard manager
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/hluk/CopyQ](https://github.com/hluk/CopyQ) ⭐ 12,590 | 🐛 408 | 🌐 C++ | 📅 2026-11-02 - Cross-platform clipboard manager
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) ⭐ 31,397 | 🐛 735 | 🌐 C++ | 📅 2026-11-02 - Cross-platform screenshot tool
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) ⭐ 31,406 | 🐛 734 | 🌐 C++ | 📅 2026-11-02 - Cross-platform screenshot tool
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/files-community/Files](https://github.com/files-community/Files) ⭐ 46,464 | 🐛 457 | 🌐 C# | 📅 2026-11-02 - Modern file manager for Windows
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/files-community/Files](https://github.com/files-community/Files) ⭐ 46,479 | 🐛 457 | 🌐 C# | 📅 2026-11-03 - Modern file manager for Windows
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/localsend/localsend](https://github.com/localsend/localsend) ⭐ 97,069 | 🐛 1,023 | 🌐 Dart | 📅 2026-11-02 - Cross-platform alternative to AirDrop
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/localsend/localsend](https://github.com/localsend/localsend) ⭐ 97,204 | 🐛 1,025 | 🌐 Dart | 📅 2026-11-02 - Cross-platform alternative to AirDrop
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/timvisee/send](https://github.com/timvisee/send) ⭐ 5,942 | 🐛 87 | 🌐 JavaScript | 📅 2026-11-02 - Quick encrypted file sharing
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/timvisee/send](https://github.com/timvisee/send) ⭐ 5,947 | 🐛 87 | 🌐 JavaScript | 📅 2026-11-02 - Quick encrypted file sharing
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/FDH2/UxPlay](https://github.com/FDH2/UxPlay) ⭐ 3,295 | 🐛 49 | 🌐 C | 📅 2026-11-03 - Cross-platform AirPlay server
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/FDH2/UxPlay](https://github.com/FDH2/UxPlay) ⭐ 3,300 | 🐛 49 | 🌐 C | 📅 2026-11-03 - Cross-platform AirPlay server
 
 [<img src="https://icon.horse/icon/codeberg.org" height="20px" align="center"/>/wolfree](https://codeberg.org/wolfree) - WolframAlpha but free
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/futo-org/Grayjay.Desktop](https://github.com/futo-org/Grayjay.Desktop) ⭐ 900 | 🐛 432 | 🌐 C# | 📅 2026-10-21 - All-in-1 media platform app
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/futo-org/Grayjay.Desktop](https://github.com/futo-org/Grayjay.Desktop) ⭐ 900 | 🐛 434 | 🌐 C# | 📅 2026-10-21 - All-in-1 media platform app
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/imputnet/cobalt](https://github.com/imputnet/cobalt) ⭐ 45,728 | 🐛 284 | 🌐 Svelte | 📅 2026-04-06 - Media downloader
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/imputnet/cobalt](https://github.com/imputnet/cobalt) ⭐ 45,774 | 🐛 285 | 🌐 Svelte | 📅 2026-04-06 - Media downloader
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) ⭐ 127,942 | 🐛 208 | 🌐 Rust | 📅 2026-11-03 - Remote desktop application
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) ⭐ 128,063 | 🐛 207 | 🌐 Rust | 📅 2026-11-03 - Remote desktop application
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) ⭐ 41,819 | 🐛 58 | 🌐 Rust | 📅 2026-11-02 - Cross-platform network traffic monitor
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) ⭐ 41,844 | 🐛 57 | 🌐 Rust | 📅 2026-11-02 - Cross-platform network traffic monitor
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) ⭐ 29,772 | 🐛 2,932 | 🌐 C++ | 📅 2026-11-02 - Extensive text editor for Windows
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) ⭐ 29,779 | 🐛 2,925 | 🌐 C++ | 📅 2026-11-03 - Extensive text editor for Windows
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) ⭐ 14,756 | 🐛 108 | 🌐 C++ | 📅 2026-10-26 - Cross-platform reimplementation of Notepad++
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) ⭐ 14,761 | 🐛 110 | 🌐 C++ | 📅 2026-10-26 - Cross-platform reimplementation of Notepad++
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/kando-menu/kando](https://github.com/kando-menu/kando) ⭐ 6,575 | 🐛 74 | 🌐 TypeScript | 📅 2026-11-02 - Cross-platform pie menu launcher
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/kando-menu/kando](https://github.com/kando-menu/kando) ⭐ 6,581 | 🐛 73 | 🌐 TypeScript | 📅 2026-11-03 - Cross-platform pie menu launcher
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/CapSoftware/Cap](https://github.com/CapSoftware/Cap) ⭐ 24,282 | 🐛 535 | 🌐 Rust | 📅 2026-11-03 - Screen capture sharing
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/CapSoftware/Cap](https://github.com/CapSoftware/Cap) ⭐ 24,317 | 🐛 456 | 🌐 Rust | 📅 2026-11-03 - Screen capture sharing
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) ⭐ 42,926 | 🐛 187 | 🌐 C++ | 📅 2026-11-03 - Self-hosted game stream host for Moonlight
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) ⭐ 42,964 | 🐛 181 | 🌐 C++ | 📅 2026-11-03 - Self-hosted game stream host for Moonlight
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/pbatard/rufus](https://github.com/pbatard/rufus) ⭐ 38,220 | 🐛 10 | 🌐 C | 📅 2026-10-30 - USB formatting utility
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/pbatard/rufus](https://github.com/pbatard/rufus) ⭐ 38,232 | 🐛 10 | 🌐 C | 📅 2026-10-30 - USB formatting utility
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/zws-im/zws](https://github.com/zws-im/zws) ⭐ 1,846 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-03 - Zero width link shortener
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/dubinc/dub](https://github.com/dubinc/dub) ⭐ 25,086 | 🐛 73 | 🌐 TypeScript | 📅 2026-10-27 - Link shortener and management
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/dubinc/dub](https://github.com/dubinc/dub) ⭐ 25,096 | 🐛 73 | 🌐 TypeScript | 📅 2026-10-27 - Link shortener and management
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) ⭐ 19,481 | 🐛 144 | 🌐 Python | 📅 2026-11-01 - Automated activity time tracker
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) ⭐ 19,490 | 🐛 144 | 🌐 Python | 📅 2026-11-01 - Automated activity time tracker
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Soundux/Soundux](https://github.com/Soundux/Soundux) ⭐ 2,068 | 🐛 121 | 🌐 C++ | 📅 2026-01-01 - Cross-platform soundboard
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Soundux/Soundux](https://github.com/Soundux/Soundux) ⭐ 2,069 | 🐛 121 | 🌐 C++ | 📅 2026-01-01 - Cross-platform soundboard
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/kurolabs/stegcloak](https://github.com/kurolabs/stegcloak) ⭐ 3,932 | 🐛 15 | 🌐 JavaScript | 📅 2024-10-01 - Create hidden messages
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/kurolabs/stegcloak](https://github.com/kurolabs/stegcloak) ⭐ 3,933 | 🐛 15 | 🌐 JavaScript | 📅 2024-10-01 - Create hidden messages
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) ⭐ 4,061 | 🐛 182 | 🌐 C++ | 📅 2026-10-26 - Map keyboard and mouse to gamepad controls
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) ⭐ 4,064 | 🐛 182 | 🌐 C++ | 📅 2026-10-26 - Map keyboard and mouse to gamepad controls
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/H-M-H/Weylus](https://github.com/H-M-H/Weylus) ⭐ 9,745 | 🐛 166 | 🌐 Rust | 📅 2026-04-22 - Use tablet as graphic tablet/touch screen
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/H-M-H/Weylus](https://github.com/H-M-H/Weylus) ⭐ 9,750 | 🐛 166 | 🌐 Rust | 📅 2026-04-22 - Use tablet as graphic tablet/touch screen
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) ⭐ 15,946 | 🐛 305 | 🌐 C# | 📅 2026-11-02 - App launcher for Windows
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) ⭐ 15,956 | 🐛 306 | 🌐 C# | 📅 2026-11-02 - App launcher for Windows
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) ⭐ 820 | 🐛 19 | 🌐 Rust | 📅 2025-10-02 - Cross-platform application launcher
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/RoanH/KeysPerSecond](https://github.com/RoanH/KeysPerSecond) ⭐ 431 | 🐛 27 | 🌐 Java | 📅 2025-06-23 - Keys per second counter overlay
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) ⭐ 3,552 | 🐛 17 | 🌐 Python | 📅 2024-08-15 - Download music from YouTube attached with metadata
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) ⭐ 3,553 | 🐛 17 | 🌐 Python | 📅 2024-08-15 - Download music from YouTube attached with metadata
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/deepjyoti30/ytmdl-web-v2](https://github.com/deepjyoti30/ytmdl-web-v2) ⭐ 1,057 | 🐛 21 | 🌐 Vue | 📅 2024-01-16 - Ytmdl web app version
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Lenochxc/WebDeck](https://github.com/Lenochxd/WebDeck) ⭐ 959 | 🐛 16 | 🌐 Jinja | 📅 2026-05-03 - Web-based StreamDeck alternative
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/nextcloud/server](https://github.com/nextcloud/server) ⭐ 37,398 | 🐛 3,871 | 🌐 PHP | 📅 2026-11-03 - (Self-hosted) Cloud storage service
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/nextcloud/server](https://github.com/nextcloud/server) ⭐ 37,406 | 🐛 3,897 | 🌐 PHP | 📅 2026-11-03 - (Self-hosted) Cloud storage service
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ventoy/Ventoy](https://github.com/ventoy/Ventoy) ⭐ 80,553 | 🐛 1,011 | 🌐 C | 📅 2026-10-22 - Bootable USB solution
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ventoy/Ventoy](https://github.com/ventoy/Ventoy) ⭐ 80,567 | 🐛 1,011 | 🌐 C | 📅 2026-10-22 - Bootable USB solution
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) ⭐ 15,860 | 🐛 3,643 | 🌐 C++ | 📅 2026-11-02 - Offline maps app using OpenStreetMap
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) ⭐ 15,864 | 🐛 3,633 | 🌐 C++ | 📅 2026-11-03 - Offline maps app using OpenStreetMap
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/t4rra/CCStopper](https://github.com/t4rra/CCStopper) -  Stops Adobe's background apps
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/signalapp](https://github.com/signalapp) - Cross-platform private messenger
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/pavlobu/deskreen](https://github.com/pavlobu/deskreen) ⭐ 21,709 | 🐛 18 | 🌐 TypeScript | 📅 2026-07-08 -  Turn web browser into a secondary screen
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/pavlobu/deskreen](https://github.com/pavlobu/deskreen) ⭐ 21,711 | 🐛 18 | 🌐 TypeScript | 📅 2026-07-08 -  Turn web browser into a secondary screen
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) ⭐ 41,100 | 🐛 863 | 🌐 Vue | 📅 2026-10-27 - Collection of handy online tools
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) ⭐ 41,111 | 🐛 862 | 🌐 Vue | 📅 2026-10-27 - Collection of handy online tools
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) ⭐ 32,179 | 🐛 338 | 🌐 C# | 📅 2026-09-29 - Cross-platform bundle of tools for doing quick tasks
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) ⭐ 32,182 | 🐛 338 | 🌐 C# | 📅 2026-09-29 - Cross-platform bundle of tools for doing quick tasks
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/builtree/handwrite](https://github.com/builtree/handwrite) ⭐ 549 | 🐛 30 | 🌐 Python | 📅 2026-08-28 - Generate a custom font based on your handwriting sample
 
@@ -148,27 +148,27 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/didier/phone-as-webcam](https://github.com/didier/phone-as-webcam) ⭐ 63 | 🐛 0 | 🌐 HTML | 📅 2021-05-16 - Use phone camera as a webcam via OBS Virtual Camera
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) ⭐ 7,349 | 🐛 310 | 🌐 Python | 📅 2026-11-03- System cleaner for Windows and Linux
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) ⭐ 7,360 | 🐛 310 | 🌐 Python | 📅 2026-11-03- System cleaner for Windows and Linux
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/peazip/PeaZip](https://github.com/peazip/PeaZip) ⭐ 8,060 | 🐛 17 | 🌐 Pascal | 📅 2026-10-21 - Cross-platform file and archive manager
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/peazip/PeaZip](https://github.com/peazip/PeaZip) ⭐ 8,065 | 🐛 17 | 🌐 Pascal | 📅 2026-10-21 - Cross-platform file and archive manager
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/upscayl/upscayl](https://github.com/upscayl/upscayl) ⭐ 51,644 | 🐛 48 | 🌐 TypeScript | 📅 2026-10-05 - Cross-platform AI image upscaler
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/upscayl/upscayl](https://github.com/upscayl/upscayl) ⭐ 51,697 | 🐛 49 | 🌐 TypeScript | 📅 2026-10-05 - Cross-platform AI image upscaler
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/spipm/Depix](https://github.com/spipm/Depix) ⚠️ Archived - Recovers passwords from pixelized screenshots
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/jtroo/kanata](https://github.com/jtroo/kanata) ⭐ 8,062 | 🐛 137 | 🌐 Rust | 📅 2026-11-02 - Cross-platform keyboard remapper
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/jtroo/kanata](https://github.com/jtroo/kanata) ⭐ 8,061 | 🐛 137 | 🌐 Rust | 📅 2026-11-02 - Cross-platform keyboard remapper
 
 ## Backup/Sync
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/RsyncProject/rsync](https://github.com/RsyncProject/rsync) ⭐ 5,334 | 🐛 324 | 🌐 C | 📅 2026-10-30 - Incremental file transfer tool
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/RsyncProject/rsync](https://github.com/RsyncProject/rsync) ⭐ 5,336 | 🐛 319 | 🌐 C | 📅 2026-11-03 - Incremental file transfer tool
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/linuxmint/warpinator](https://github.com/linuxmint/warpinator) ⭐ 1,594 | 🐛 76 | 🌐 C | 📅 2026-09-21 - Send/receive files across local network
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/rclone/rclone](https://github.com/rclone/rclone) ⭐ 60,746 | 🐛 1,272 | 🌐 Go | 📅 2026-11-02 - rsync for cloud storage
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/rclone/rclone](https://github.com/rclone/rclone) ⭐ 60,772 | 🐛 1,277 | 🌐 Go | 📅 2026-11-03 - rsync for cloud storage
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/linuxmint/timeshift](https://github.com/linuxmint/timeshift) ⭐ 4,327 | 🐛 235 | 🌐 Vala | 📅 2026-10-27 - System restore tool for Linux
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/linuxmint/timeshift](https://github.com/linuxmint/timeshift) ⭐ 4,328 | 🐛 235 | 🌐 Vala | 📅 2026-10-27 - System restore tool for Linux
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) ⭐ 1,686 | 🐛 27 | 🌐 Shell | 📅 2026-11-01 - Config manager for Arch Linux
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) ⭐ 1,687 | 🐛 27 | 🌐 Shell | 📅 2026-11-01 - Config manager for Arch Linux
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sebastiancarlos/yas-bdsm](https://github.com/sebastiancarlos/yas-bdsm) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2023-11-10 - Stow-based dotfiles manager
 
@@ -178,15 +178,15 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 ### Windows
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) ⭐ 18,324 | 🐛 69 | 🌐 Rust | 📅 2026-10-28 - Customizable Windows Desktop Environment
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) ⭐ 18,330 | 🐛 70 | 🌐 Rust | 📅 2026-10-28 - Customizable Windows Desktop Environment
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) ⭐ 6,128 | 🐛 32 | 🌐 C++ | 📅 2026-10-27 - Windows desktop customization tool
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) ⭐ 6,130 | 🐛 32 | 🌐 C++ | 📅 2026-10-27 - Windows desktop customization tool
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Jax-Core](https://github.com/Jax-Core) - Rainmeter widgets
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/rocksdanister/lively](https://github.com/rocksdanister/lively) ⭐ 19,994 | 🐛 406 | 🌐 C# | 📅 2026-09-30 - Animated wallpaper utility
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/rocksdanister/lively](https://github.com/rocksdanister/lively) ⭐ 20,003 | 🐛 407 | 🌐 C# | 📅 2026-09-30 - Animated wallpaper utility
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) ⭐ 3,143 | 🐛 20 | 🌐 C++ | 📅 2025-06-30 - UxTheme patcher for Windows
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) ⭐ 3,142 | 🐛 20 | 🌐 C++ | 📅 2025-06-30 - UxTheme patcher for Windows
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/niivu/Windows-10-themes](https://github.com/niivu/Windows-10-themes) ⭐ 446 | 🐛 5 | 📅 2026-05-23 - Themes for Windows 10
 
@@ -198,31 +198,31 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 ### Linux
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) ⭐ 16,537 | 🐛 719 | 🌐 QML | 📅 2026-10-11 - Hyprland dots
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) ⭐ 16,544 | 🐛 719 | 🌐 QML | 📅 2026-10-11 - Hyprland dots
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) ⭐ 9,700 | 🐛 110 | 🌐 Shell | 📅 2026-10-27 - Hyprland dots
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) ⭐ 9,706 | 🐛 106 | 🌐 Shell | 📅 2026-11-03 - Hyprland dots
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Coopydood/HyperFluent-GRUB-Theme](https://github.com/Coopydood/HyperFluent-GRUB-Theme) ⭐ 397 | 🐛 17 | 📅 2025-04-04 - Grub bootloader themes
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/3ximus/aerial-sddm-theme](https://github.com/3ximus/aerial-sddm-theme) ⭐ 556 | 🐛 7 | 🌐 QML | 📅 2024-11-26 - SDDM login theme
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Keyitdev/sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme) ⭐ 3,370 | 🐛 16 | 🌐 QML | 📅 2026-09-18 - Astronaut SDDM theme
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Keyitdev/sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme) ⭐ 3,372 | 🐛 16 | 🌐 QML | 📅 2026-09-18 - Astronaut SDDM theme
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/stepanzubkov/where-is-my-sddm-theme](https://github.com/stepanzubkov/where-is-my-sddm-theme) ⭐ 459 | 🐛 14 | 🌐 QML | 📅 2025-07-01 - Minimal SDDM theme
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/vinceliuice/Colloid-gtk-theme](https://github.com/vinceliuice/Colloid-gtk-theme) ⭐ 1,514 | 🐛 112 | 🌐 SCSS | 📅 2026-08-22 - GTK theme
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/elkowar/eww](https://github.com/elkowar/eww) ⭐ 12,744 | 🐛 382 | 🌐 Rust | 📅 2026-07-17 - Linux desktop widgets
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/elkowar/eww](https://github.com/elkowar/eww) ⭐ 12,743 | 🐛 382 | 🌐 Rust | 📅 2026-07-17 - Linux desktop widgets
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Aylur/ags](https://github.com/Aylur/ags) ⭐ 3,115 | 🐛 29 | 🌐 TypeScript | 📅 2026-04-08 - Linux Wayland desktop widgets
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Aylur/ags](https://github.com/Aylur/ags) ⭐ 3,116 | 🐛 29 | 🌐 TypeScript | 📅 2026-04-08 - Linux Wayland desktop widgets
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/tr1xem/hyprfabricated](https://github.com/tr1xem/hyprfabricated) ⚠️ Archived - Shell for Hyprland
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/brndnmtthws/conky](https://github.com/brndnmtthws/conky) ⭐ 8,554 | 🐛 69 | 🌐 C++ | 📅 2026-10-30 - Linux X11 desktop widgets
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/brndnmtthws/conky](https://github.com/brndnmtthws/conky) ⭐ 8,556 | 🐛 69 | 🌐 C++ | 📅 2026-11-03 - Linux X11 desktop widgets
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/GradienceTeam/Gradience](https://github.com/GradienceTeam/Gradience) ⚠️ Archived - GTK theming tool
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) ⭐ 4,698 | 🐛 283 | 🌐 C++ | 📅 2026-10-30 - Run Wallpaper Engine wallpapers on Linux
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) ⭐ 4,699 | 🐛 283 | 🌐 C++ | 📅 2026-10-30 - Run Wallpaper Engine wallpapers on Linux
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/catsout/wallpaper-engine-kde-plugin](https://github.com/catsout/wallpaper-engine-kde-plugin) ⚠️ Archived - Wallpaper Engine for KDE
 
@@ -236,49 +236,49 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/DefrimBinakaj/WallMod](https://github.com/DefrimBinakaj/WallMod) ⭐ 50 | 🐛 0 | 🌐 C# | 📅 2026-07-25 - Windows/Linux wallpaper management tool
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/starship/starship](https://github.com/starship/starship) ⭐ 60,572 | 🐛 1,062 | 🌐 Rust | 📅 2026-11-02 - Custom shell prompt
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/starship/starship](https://github.com/starship/starship) ⭐ 60,590 | 🐛 1,062 | 🌐 Rust | 📅 2026-11-02 - Custom shell prompt
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Naezr/ShyFox](https://github.com/Naezr/ShyFox) ⭐ 2,121 | 🐛 71 | 🌐 CSS | 📅 2025-01-21 - Hidden element Firefox theme
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Naezr/ShyFox](https://github.com/Naezr/ShyFox) ⭐ 2,122 | 🐛 71 | 🌐 CSS | 📅 2025-01-21 - Hidden element Firefox theme
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) ⭐ 1,756 | 🐛 6 | 🌐 CSS | 📅 2026-10-27 - Firefox theme
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) ⭐ 1,757 | 🐛 6 | 🌐 CSS | 📅 2026-10-27 - Firefox theme
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/adriankarlen/textfox](https://github.com/adriankarlen/textfox) ⭐ 1,706 | 🐛 12 | 🌐 CSS | 📅 2026-10-23 - TUI-style Firefox theme
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/adriankarlen/textfox](https://github.com/adriankarlen/textfox) ⭐ 1,707 | 🐛 12 | 🌐 CSS | 📅 2026-10-23 - TUI-style Firefox theme
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/refact0r/system24](https://github.com/refact0r/system24) ⭐ 2,445 | 🐛 41 | 🌐 CSS | 📅 2026-10-27 - TUI-style Discord theme
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/nyoom-engineering/oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim) ⭐ 1,649 | 🐛 22 | 🌐 Fennel | 📅 2026-09-07 - Neovim theme
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/NvChad/NvChad](https://github.com/NvChad/NvChad) ⭐ 28,528 | 🐛 3 | 🌐 Lua | 📅 2026-10-24 - Neovim config
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/NvChad/NvChad](https://github.com/NvChad/NvChad) ⭐ 28,529 | 🐛 3 | 🌐 Lua | 📅 2026-10-24 - Neovim config
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Everblush](https://github.com/Everblush) - Dark vibrant color scheme
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/gpakosz/.tmux](https://github.com/gpakosz/.tmux) ⭐ 25,465 | 🐛 24 | 🌐 Shell | 📅 2026-10-21 - tmux config
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/m3tozz/FastCat](https://github.com/m3tozz/FastCat) ⭐ 375 | 🐛 1 | 🌐 Shell | 📅 2026-09-03 - FastFetch theme pack
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/m3tozz/FastCat](https://github.com/m3tozz/FastCat) ⭐ 377 | 🐛 1 | 🌐 Shell | 📅 2026-09-03 - FastFetch theme pack
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Achno/gowall](https://github.com/Achno/gowall) ⭐ 2,326 | 🐛 14 | 🌐 Go | 📅 2026-10-20 - Convert a wallpaper's color scheme/palette
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Achno/gowall](https://github.com/Achno/gowall) ⭐ 2,328 | 🐛 14 | 🌐 Go | 📅 2026-10-20 - Convert a wallpaper's color scheme/palette
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/tkashkin/Adwaita-for-Steam](https://github.com/tkashkin/Adwaita-for-Steam) ⭐ 1,612 | 🐛 19 | 🌐 CSS | 📅 2026-08-02 - GNOME-like Steam skin
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/tkashkin/Adwaita-for-Steam](https://github.com/tkashkin/Adwaita-for-Steam) ⭐ 1,613 | 🐛 19 | 🌐 CSS | 📅 2026-08-02 - GNOME-like Steam skin
 
 ## Awesome Lists
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Lumaeris/awesome-windows](https://github.com/Lumaeris/awesome-windows) - List of useful Windows tools/apps
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) ⭐ 19,429 | 🐛 2 | 📅 2026-10-21 - List of MacOS resources
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) ⭐ 19,430 | 🐛 3 | 📅 2026-10-21 - List of MacOS resources
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) ⭐ 10,043 | 🐛 2 | 🌐 Astro | 📅 2026-10-31 -  List of privacy/security-focused software & services
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) ⭐ 10,046 | 🐛 3 | 🌐 Astro | 📅 2026-10-31 -  List of privacy/security-focused software & services
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) ⭐ 20,179 | 🐛 19 | 🌐 Python | 📅 2026-11-02 - List of privacy-focused services
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) ⭐ 20,201 | 🐛 26 | 🌐 Python | 📅 2026-11-03 - List of privacy-focused services
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) ⭐ 29,187 | 🐛 89 | 🌐 JavaScript | 📅 2026-06-21 -  List of VS Code packages and resources
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) ⭐ 29,187 | 🐛 90 | 🌐 JavaScript | 📅 2026-06-21 -  List of VS Code packages and resources
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) ⭐ 5,392 | 🐛 70 | 📅 2026-10-30 - List of useful Hyprland tools
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) ⭐ 5,397 | 🐛 70 | 📅 2026-10-30 - List of useful Hyprland tools
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⚠️ Archived - List of command line apps
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) ⭐ 33,025 | 🐛 70 | 📅 2024-09-10 - List of modern UNIX CLI tools
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) ⭐ 33,027 | 🐛 70 | 📅 2024-09-10 - List of modern UNIX CLI tools
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/GoryGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) ⭐ 37,233 | 🐛 40 | 📅 2024-08-06 - List of open source clones of popular sites
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/GoryGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) ⭐ 37,240 | 🐛 40 | 📅 2024-08-06 - List of open source clones of popular sites
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) ⭐ 2,306 | 🐛 17 | 📅 2026-02-04 - List of mpv resources
 
@@ -288,61 +288,61 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 ## Command Line Tools
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) ⭐ 35,511 | 🐛 10 | 🌐 Python | 📅 2026-11-02 - Extensible GPU accelerated terminal
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) ⭐ 35,527 | 🐛 11 | 🌐 Python | 📅 2026-11-03 - Extensible GPU accelerated terminal
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/alacritty/alacritty](https://github.com/alacritty/alacritty) ⭐ 66,109 | 🐛 344 | 🌐 Rust | 📅 2026-11-02 - Extensible GPU accelerated terminal
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/alacritty/alacritty](https://github.com/alacritty/alacritty) ⭐ 66,112 | 🐛 345 | 🌐 Rust | 📅 2026-11-02 - Extensible GPU accelerated terminal
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) ⭐ 63,317 | 🐛 259 | 🌐 Zig | 📅 2026-11-02 - Feature rich, GPU accelerated terminal
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) ⭐ 63,433 | 🐛 258 | 🌐 Zig | 📅 2026-11-03 - Feature rich, GPU accelerated terminal
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sharkdp/bat](https://github.com/sharkdp/bat) ⭐ 61,034 | 🐛 571 | 🌐 Rust | 📅 2026-11-02 - Better cat
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sharkdp/bat](https://github.com/sharkdp/bat) ⭐ 61,053 | 🐛 565 | 🌐 Rust | 📅 2026-11-03 - Better cat
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 69,661 | 🐛 217 | 🌐 Rust | 📅 2026-10-27 - Fast line-oriented search tool
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 69,678 | 🐛 218 | 🌐 Rust | 📅 2026-10-27 - Fast line-oriented search tool
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) ⭐ 9,910 | 🐛 81 | 🌐 Rust | 📅 2026-09-17 - ripgrep for various file types
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) ⭐ 9,913 | 🐛 81 | 🌐 Rust | 📅 2026-09-17 - ripgrep for various file types
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/rupa/z](https://github.com/rupa/z) ⭐ 17,068 | 🐛 108 | 🌐 Shell | 📅 2024-06-19 - Better directory navigation using frecency
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/rupa/z](https://github.com/rupa/z) ⭐ 17,069 | 🐛 108 | 🌐 Shell | 📅 2024-06-19 - Better directory navigation using frecency
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,422 | 🐛 161 | 🌐 Rust | 📅 2026-11-01 - Smarter directory navigation based on z
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,442 | 🐛 162 | 🌐 Rust | 📅 2026-11-01 - Smarter directory navigation based on z
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/imsnif/bandwhich](https://github.com/imsnif/bandwhich) ⭐ 12,044 | 🐛 58 | 🌐 Rust | 📅 2026-08-01 - Bandwidth utilization monitoring
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/aristocratos/btop](https://github.com/aristocratos/btop) ⭐ 35,227 | 🐛 613 | 🌐 C++ | 📅 2026-10-28 - System resource monitoring
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/aristocratos/btop](https://github.com/aristocratos/btop) ⭐ 35,240 | 🐛 613 | 🌐 C++ | 📅 2026-11-03 - System resource monitoring
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ad-oliviero/uwufetch](https://github.com/ad-oliviero/uwufetch) ⭐ 824 | 🐛 11 | 🌐 C | 📅 2026-10-20 - neofetch but uwu
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ad-oliviero/uwufetch](https://github.com/ad-oliviero/uwufetch) ⭐ 824 | 🐛 12 | 🌐 C | 📅 2026-10-20 - neofetch but uwu
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 25,240 | 🐛 120 | 🌐 C | 📅 2026-11-02 - neofetch but fast, maintained, and more customizable
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 25,257 | 🐛 122 | 🌐 C | 📅 2026-11-03 - neofetch but fast, maintained, and more customizable
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/FabricSoul/gitfetch](https://github.com/FabricSoul/gitfetch) ⭐ 34 | 🐛 0 | 🌐 Rust | 📅 2024-08-26 - neofetch but for git contributions
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/nvbn/thefuck](https://github.com/nvbn/thefuck) ⭐ 97,938 | 🐛 469 | 🌐 Python | 📅 2024-07-19 - Corrects your previous command
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/nvbn/thefuck](https://github.com/nvbn/thefuck) ⭐ 97,942 | 🐛 469 | 🌐 Python | 📅 2024-07-19 - Corrects your previous command
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/hisbaan/didyoumean](https://github.com/hisbaan/didyoumean) ⭐ 219 | 🐛 3 | 🌐 Rust | 📅 2026-05-28 - Corrects your previous command
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/pacstall/pacstall](https://github.com/pacstall/pacstall) ⭐ 1,696 | 🐛 26 | 🌐 Shell | 📅 2026-10-28 - AUR-inspired package manager for Ubuntu
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/pacstall/pacstall](https://github.com/pacstall/pacstall) ⭐ 1,697 | 🐛 26 | 🌐 Shell | 📅 2026-10-28 - AUR-inspired package manager for Ubuntu
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/tmux/tmux](https://github.com/tmux/tmux) ⭐ 50,126 | 🐛 39 | 🌐 C | 📅 2026-11-01 - Terminal multiplexer
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/tmux/tmux](https://github.com/tmux/tmux) ⭐ 50,139 | 🐛 42 | 🌐 C | 📅 2026-11-03 - Terminal multiplexer
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/dustinkirkland/byobu](https://github.com/dustinkirkland/byobu) ⭐ 1,740 | 🐛 6 | 🌐 Python | 📅 2026-11-02 - Terminal multiplexer
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/dustinkirkland/byobu](https://github.com/dustinkirkland/byobu) ⭐ 1,741 | 🐛 6 | 🌐 Python | 📅 2026-11-02 - Terminal multiplexer
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) ⭐ 5,939 | 🐛 27 | 🌐 C++ | 📅 2026-05-06 - Smart clipboard manager
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) ⭐ 5,941 | 🐛 27 | 🌐 C++ | 📅 2026-05-06 - Smart clipboard manager
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/lsd-rs/lsd](https://github.com/lsd-rs/lsd) ⭐ 16,285 | 🐛 217 | 🌐 Rust | 📅 2026-08-17 - ls with colors, formatting, icons, etc.
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/lsd-rs/lsd](https://github.com/lsd-rs/lsd) ⭐ 16,283 | 🐛 218 | 🌐 Rust | 📅 2026-08-17 - ls with colors, formatting, icons, etc.
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/natecraddock/zf](https://github.com/natecraddock/zf) ⭐ 608 | 🐛 10 | 🌐 Zig | 📅 2026-10-04 - Filepath fuzzy finder
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/natecraddock/zf](https://github.com/natecraddock/zf) ⭐ 609 | 🐛 10 | 🌐 Zig | 📅 2026-10-04 - Filepath fuzzy finder
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/paolozzari/play](https://github.com/paololazzari/play) ⭐ 595 | 🐛 3 | 🌐 Go | 📅 2025-03-28 - Terminal playground
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/paolozzari/play](https://github.com/paololazzari/play) ⭐ 596 | 🐛 3 | 🌐 Go | 📅 2025-03-28 - Terminal playground
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/charmbracelet/freeze](https://github.com/charmbracelet/freeze) ⭐ 4,904 | 🐛 81 | 🌐 Go | 📅 2026-09-16 - Screenshot your terminal
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/homeport/termshot](https://github.com/homeport/termshot) ⭐ 981 | 🐛 37 | 🌐 Go | 📅 2026-09-15 - Capture terminal output
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/tldr-pages/tldr](https://github.com/tldr-pages/tldr) ⭐ 64,107 | 🐛 289 | 🌐 Markdown | 📅 2026-11-03 - Simpler manpages
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/tldr-pages/tldr](https://github.com/tldr-pages/tldr) ⭐ 64,115 | 🐛 284 | 🌐 Markdown | 📅 2026-11-03 - Simpler manpages
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) ⭐ 6,637 | 🐛 20 | 🌐 Rust | 📅 2026-10-24 - tldr client in Rust
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) ⭐ 6,638 | 🐛 20 | 🌐 Rust | 📅 2026-10-24 - tldr client in Rust
 
 [<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/ve-nt/outfieldr](https://gitlab.com/ve-nt/outfieldr) - tldr client in Zig
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) ⭐ 6,148 | 🐛 437 | 🌐 C++ | 📅 2026-11-02 - Task list management utility
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) ⭐ 6,153 | 🐛 437 | 🌐 C++ | 📅 2026-11-02 - Task list management utility
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Everduin94/better-commits](https://github.com/Everduin94/better-commits) ⭐ 2,282 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-26 - Better git commits following conventional commits spec
 
@@ -350,33 +350,33 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) ⭐ 3,567 | 🐛 22 | 🌐 Go | 📅 2024-04-14 - Convert images to ascii art
 
-[<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/timvisee/ffsend](https://gitlab.com/timvisee/ffsend) - Share files from the command line using [Send](https://github.com/timvisee/send) ⭐ 5,942 | 🐛 87 | 🌐 JavaScript | 📅 2026-11-02
+[<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/timvisee/ffsend](https://gitlab.com/timvisee/ffsend) - Share files from the command line using [Send](https://github.com/timvisee/send) ⭐ 5,947 | 🐛 87 | 🌐 JavaScript | 📅 2026-11-02
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Y2Z/monolith](https://github.com/Y2Z/monolith) ⭐ 15,573 | 🐛 49 | 🌐 Rust | 📅 2026-11-02 - Save webpage as a single HTML file
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Y2Z/monolith](https://github.com/Y2Z/monolith) ⭐ 15,577 | 🐛 49 | 🌐 Rust | 📅 2026-11-02 - Save webpage as a single HTML file
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/uutils/coreutils](https://github.com/uutils/coreutils) ⭐ 24,323 | 🐛 1,448 | 🌐 Rust | 📅 2026-11-02 - Rust rewrite of GNU coreutils
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/uutils/coreutils](https://github.com/uutils/coreutils) ⭐ 24,327 | 🐛 1,434 | 🌐 Rust | 📅 2026-11-03 - Rust rewrite of GNU coreutils
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 29,200 | 🐛 71 | 🌐 Rust | 📅 2026-11-01 - Command line benchmarking tool
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 29,204 | 🐛 72 | 🌐 Rust | 📅 2026-11-01 - Command line benchmarking tool
 
 ## CLI/TUI Apps
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/itsjunetime/tdf](https://github.com/itsjunetime/tdf) ⭐ 2,008 | 🐛 41 | 🌐 Rust | 📅 2026-08-16 - TUI-based PDF viewer
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/charmbracelet/glow](https://github.com/charmbracelet/glow) ⭐ 27,889 | 🐛 266 | 🌐 Go | 📅 2026-10-05 - Markdown viewer
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/charmbracelet/glow](https://github.com/charmbracelet/glow) ⭐ 27,902 | 🐛 266 | 🌐 Go | 📅 2026-10-05 - Markdown viewer
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/guilhermeprokisch/see](https://github.com/guilhermeprokisch/see) ⭐ 297 | 🐛 5 | 🌐 Rust | 📅 2026-08-26 - Code viewer and markdown renderer
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/tstack/lnav](https://github.com/tstack/lnav) ⭐ 10,777 | 🐛 298 | 🌐 C++ | 📅 2026-11-02 - Log file navigator
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/tstack/lnav](https://github.com/tstack/lnav) ⭐ 10,778 | 🐛 299 | 🌐 C++ | 📅 2026-11-03 - Log file navigator
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/jarun/nnn](https://github.com/jarun/nnn) ⭐ 22,108 | 🐛 2 | 🌐 C | 📅 2026-11-01 - Extensive file manager
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/jarun/nnn](https://github.com/jarun/nnn) ⭐ 22,106 | 🐛 1 | 🌐 C | 📅 2026-11-01 - Extensive file manager
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sxyazi/yazi](https://github.com/sxyazi/yazi) ⭐ 43,199 | 🐛 65 | 🌐 Rust | 📅 2026-11-02 - Async file manager
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sxyazi/yazi](https://github.com/sxyazi/yazi) ⭐ 43,212 | 🐛 64 | 🌐 Rust | 📅 2026-11-02 - Async file manager
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/joehillen/sysz](https://github.com/joehillen/sysz) ⭐ 1,888 | 🐛 5 | 🌐 Shell | 📅 2024-04-22 - fzf systemctl UI
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/pythops/bluetui](https://github.com/pythops/bluetui) ⭐ 3,069 | 🐛 11 | 🌐 Rust | 📅 2026-10-24 - Bluetooth manager
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/pythops/bluetui](https://github.com/pythops/bluetui) ⭐ 3,068 | 🐛 11 | 🌐 Rust | 📅 2026-10-24 - Bluetooth manager
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ayn2op/discordo](https://github.com/ayn2op/discordo) ⭐ 5,858 | 🐛 36 | 🌐 Go | 📅 2026-10-26 - Discord client
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ayn2op/discordo](https://github.com/ayn2op/discordo) ⭐ 5,859 | 🐛 37 | 🌐 Go | 📅 2026-11-03 - Discord client
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sudipghimire533/ytui-music](https://github.com/sudipghimire533/ytui-music) ⭐ 778 | 🐛 38 | 🌐 Rust | 📅 2025-03-03 - YouTube Music client
 
@@ -384,23 +384,23 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) ⭐ 6,806 | 🐛 205 | 🌐 Rust | 📅 2026-11-02 - ncurses Spotify
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) ⭐ 2,503 | 🐛 228 | 🌐 C++ | 📅 2026-09-19 - ncurses based music player
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) ⭐ 2,504 | 🐛 228 | 🌐 C++ | 📅 2026-09-19 - ncurses based music player
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/cmus/cmus](https://github.com/cmus/cmus) ⭐ 6,281 | 🐛 221 | 🌐 C | 📅 2026-10-28 - Music player
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/cmus/cmus](https://github.com/cmus/cmus) ⭐ 6,284 | 🐛 221 | 🌐 C | 📅 2026-10-28 - Music player
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ravachol/kew](https://github.com/ravachol/kew) ⭐ 3,185 | 🐛 5 | 🌐 C | 📅 2026-11-01 - Music player
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ravachol/kew](https://github.com/ravachol/kew) ⭐ 3,187 | 🐛 5 | 🌐 C | 📅 2026-11-01 - Music player
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/PrajwalVandana/maestro-cli](https://github.com/PrajwalVandana/maestro-cli) ⭐ 232 | 🐛 0 | 🌐 Python | 📅 2026-05-10 - Audio player
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/qxb3/fum](https://github.com/qxb3/fum) ⭐ 284 | 🐛 6 | 🌐 Rust | 📅 2026-07-11 - TUI mpris client
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/pystardust/ani-cli](https://github.com/pystardust/ani-cli) ⭐ 14,082 | 🐛 15 | 🌐 Shell | 📅 2026-10-30 - Browse and play anime
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/pystardust/ani-cli](https://github.com/pystardust/ani-cli) ⭐ 14,088 | 🐛 15 | 🌐 Shell | 📅 2026-10-30 - Browse and play anime
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/extrawurst/gitui](https://github.com/extrawurst/gitui) ⭐ 22,623 | 🐛 356 | 🌐 Rust | 📅 2026-10-06 - TUI for git
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/extrawurst/gitui](https://github.com/extrawurst/gitui) ⭐ 22,620 | 🐛 357 | 🌐 Rust | 📅 2026-10-06 - TUI for git
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/divhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ⭐ 12,714 | 🐛 111 | 🌐 Go | 📅 2026-10-26 - GitHub dashboard
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/divhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ⭐ 12,715 | 🐛 111 | 🌐 Go | 📅 2026-10-26 - GitHub dashboard
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Levizor/tray-tui](https://github.com/Levizor/tray-tui) ⭐ 173 | 🐛 2 | 🌐 Rust | 📅 2026-03-15 - TUI for systray applications
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Levizor/tray-tui](https://github.com/Levizor/tray-tui) ⭐ 174 | 🐛 2 | 🌐 Rust | 📅 2026-03-15 - TUI for systray applications
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Achno/gocheat](https://github.com/Achno/gocheat) ⭐ 345 | 🐛 8 | 🌐 Go | 📅 2025-10-26 - Customizable terminal cheatsheet
 
@@ -416,23 +416,23 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/lhvy/pipes-rs](https://github.com/lhvy/pipes-rs) ⭐ 450 | 🐛 2 | 🌐 Rust | 📅 2025-08-21 - Pipes terminal screensaver
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/domcyrus/rustnet](https://github.com/domcyrus/rustnet) ⭐ 5,207 | 🐛 30 | 🌐 Rust | 📅 2026-11-02 - A cross-platform network monitoring tool
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/domcyrus/rustnet](https://github.com/domcyrus/rustnet) ⭐ 5,210 | 🐛 30 | 🌐 Rust | 📅 2026-11-03 - A cross-platform network monitoring tool
 
 ## Oh-My
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ⭐ 23,698 | 🐛 12 | 🌐 Go | 📅 2026-11-02 - Cross-shell prompt
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ⭐ 23,703 | 🐛 12 | 🌐 Go | 📅 2026-11-02 - Cross-shell prompt
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) ⭐ 11,412 | 🐛 7 | 🌐 Shell | 📅 2026-09-30
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) ⭐ 11,413 | 🐛 7 | 🌐 Shell | 📅 2026-09-30
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) ⭐ 7,758 | 🐛 162 | 🌐 Shell | 📅 2026-10-28
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) ⭐ 7,760 | 🐛 162 | 🌐 Shell | 📅 2026-10-28
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/) ⭐ 190,291 | 🐛 310 | 🌐 Shell | 📅 2026-11-02
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/) ⭐ 190,301 | 🐛 313 | 🌐 Shell | 📅 2026-11-02
 
 ## Peripherals
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/zocker-160/keyboard-center](https://github.com/zocker-160/keyboard-center) ⭐ 80 | 🐛 8 | 🌐 Python | 📅 2025-10-15 - Mapping macro keys on Logitech keyboards
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/zocker-160/keyboard-center](https://github.com/zocker-160/keyboard-center) ⭐ 80 | 🐛 9 | 🌐 Python | 📅 2025-10-15 - Mapping macro keys on Logitech keyboards
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) ⭐ 9,541 | 🐛 141 | 🌐 Python | 📅 2026-08-18 - Linux device manager for Logitech devices
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) ⭐ 9,547 | 🐛 143 | 🌐 Python | 📅 2026-08-18 - Linux device manager for Logitech devices
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/vial-kb/vial-gui](https://github.com/vial-kb/vial-gui) ⭐ 1,444 | 🐛 114 | 🌐 Python | 📅 2026-05-25 - Cross-platform keyboard configurator
 
@@ -440,17 +440,17 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/CalcProgrammar1/KeyboardVisualizer](https://github.com/CalcProgrammer1/KeyboardVisualizer) ⭐ 609 | 🐛 94 | 🌐 C++ | 📅 2025-01-24 - Audio visualizer and effects engine
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/polychromatic/polychromatic](https://github.com/polychromatic/polychromatic) ⭐ 1,263 | 🐛 63 | 🌐 Python | 📅 2026-10-26 - RGB lighting management for Linux
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/polychromatic/polychromatic](https://github.com/polychromatic/polychromatic) ⭐ 1,262 | 🐛 63 | 🌐 Python | 📅 2026-10-26 - RGB lighting management for Linux
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/openrazer/openrazer](https://github.com/openrazer/openrazer) ⭐ 4,584 | 🐛 333 | 🌐 C | 📅 2026-10-05 - Razer lighting driver for LInux
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/openrazer/openrazer](https://github.com/openrazer/openrazer) ⭐ 4,584 | 🐛 334 | 🌐 C | 📅 2026-10-05 - Razer lighting driver for LInux
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/GoXLR-on-Linux/GoXLR-Utility](https://github.com/GoXLR-on-Linux/GoXLR-Utility) ⭐ 1,070 | 🐛 12 | 🌐 Rust | 📅 2026-09-18 - Unofficial GoXLR App replacement
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/GoXLR-on-Linux/GoXLR-Utility](https://github.com/GoXLR-on-Linux/GoXLR-Utility) ⭐ 1,072 | 🐛 12 | 🌐 Rust | 📅 2026-09-18 - Unofficial GoXLR App replacement
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/StreamController/StreamController](https://github.com/StreamController/StreamController) ⭐ 1,142 | 🐛 60 | 🌐 Python | 📅 2026-09-21 - Elgato Stream Deck app for Linux
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/StreamController/StreamController](https://github.com/StreamController/StreamController) ⭐ 1,144 | 🐛 62 | 🌐 Python | 📅 2026-09-21 - Elgato Stream Deck app for Linux
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ninjadev64/OpenDeck](https://github.com/ninjadev64/OpenDeck) ⭐ 2,374 | 🐛 50 | 🌐 Rust | 📅 2026-10-21 - Cross-platform stream controller app
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ninjadev64/OpenDeck](https://github.com/ninjadev64/OpenDeck) ⭐ 2,380 | 🐛 50 | 🌐 Rust | 📅 2026-10-21 - Cross-platform stream controller app
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/berarma/oversteer](https://github.com/berarma/oversteer) ⭐ 1,080 | 🐛 74 | 🌐 Python | 📅 2026-02-26 - Steering Wheel Manager for Linux
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/berarma/oversteer](https://github.com/berarma/oversteer) ⭐ 1,081 | 🐛 74 | 🌐 Python | 📅 2026-02-26 - Steering Wheel Manager for Linux
 
 ## Modded
 
@@ -458,71 +458,71 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/acquitelol/rosiecord](https://github.com/acquitelol/rosiecord) ⭐ 191 | 🐛 7 | 🌐 TypeScript | 📅 2024-08-07 - Modded Discord client for iOS (Wrapper for Enmity)
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) ⭐ 3,030 | 🐛 67 | 🌐 JavaScript | 📅 2026-07-24 - Better Discord app.asar
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) ⭐ 3,033 | 🐛 68 | 🌐 JavaScript | 📅 2026-07-24 - Better Discord app.asar
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) ⭐ 9,304 | 🐛 43 | 🌐 TypeScript | 📅 2026-11-02 - Modded Discord desktop client
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) ⭐ 9,306 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-02 - Modded Discord desktop client
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Vendicated/Vencord](https://github.com/Vendicated/Vencord) ⭐ 14,403 | 🐛 300 | 🌐 TypeScript | 📅 2026-11-02 - Modded Discord desktop/browser client
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Vendicated/Vencord](https://github.com/Vendicated/Vencord) ⭐ 14,413 | 🐛 300 | 🌐 TypeScript | 📅 2026-11-03 - Modded Discord desktop/browser client
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Vencord/Vesktop](https://github.com/Vencord/Vesktop) ⭐ 8,568 | 🐛 74 | 🌐 TypeScript | 📅 2026-11-02 - Modded Discord web client with better Linux support
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Vencord/Vesktop](https://github.com/Vencord/Vesktop) ⭐ 8,572 | 🐛 74 | 🌐 TypeScript | 📅 2026-11-03 - Modded Discord web client with better Linux support
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Equicord/Equicord](https://github.com/Equicord/Equicord) ⭐ 1,823 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-02 - Vencord fork with more features and plugins
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Equicord/Equicord](https://github.com/Equicord/Equicord) ⭐ 1,823 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-03 - Vencord fork with more features and plugins
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Equicord/Equibop](https://github.com/Equicord/Equibop) ⭐ 809 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-23 - Vesktop fork with Equicord base
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Equicord/Equibop](https://github.com/Equicord/Equibop) ⭐ 810 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-23 - Vesktop fork with Equicord base
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/uowuo/abaddon](https://github.com/uowuo/abaddon) ⭐ 2,231 | 🐛 112 | 🌐 C++ | 📅 2026-09-09 - Alternative Discord client using GTK
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/uowuo/abaddon](https://github.com/uowuo/abaddon) ⭐ 2,232 | 🐛 112 | 🌐 C++ | 📅 2026-09-09 - Alternative Discord client using GTK
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/spicetify/cli](https://github.com/spicetify/cli) ⭐ 25,361 | 🐛 15 | 🌐 JavaScript | 📅 2026-11-01 - Modded Spotify client
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/spicetify/cli](https://github.com/spicetify/cli) ⭐ 25,363 | 🐛 17 | 🌐 JavaScript | 📅 2026-11-03 - Modded Spotify client
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) ⚠️ Archived - Spotify adblocker
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Team-xManager/xManager](https://github.com/Team-xManager/xManager) ⚠️ Archived - Modded Spotify client for Android
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) ⭐ 30,046 | 🐛 226 | 🌐 Kotlin | 📅 2026-07-29 - Modded app patches for Android
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) ⭐ 30,063 | 🐛 226 | 🌐 Kotlin | 📅 2026-07-29 - Modded app patches for Android
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/YTLitePlus/YTLitePlus](https://github.com/YTLitePlus/YTLitePlus) ⭐ 3,608 | 🐛 174 | 🌐 Logos | 📅 2026-09-04 - Modded YouTube for iOS (better)
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) ⭐ 3,354 | 🐛 348 | 🌐 Logos | 📅 2026-10-24 - Modded YouTube for iOS
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) ⭐ 3,359 | 🐛 349 | 🌐 Logos | 📅 2026-10-24 - Modded YouTube for iOS
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) ⚠️ Archived - Modded YouTube for iOS
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/TherionRO/YouTubeiVanced](https://github.com/TherionRO/YouTubeiVanced) ⭐ 250 | 🐛 12 | 🌐 Logos | 📅 2026-03-06 - Modded YouTube for iOS
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) ⭐ 4,559 | 🐛 38 | 🌐 C++ | 📅 2026-10-30 - Steam client modding
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) ⭐ 4,562 | 🐛 39 | 🌐 C++ | 📅 2026-10-30 - Steam client modding
 
 ## Mail
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) ⭐ 1,001 | 🐛 32 | 🌐 Shell | 📅 2026-11-01 - Patches for Thunderbird
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) ⭐ 1,003 | 🐛 32 | 🌐 Shell | 📅 2026-11-03 - Patches for Thunderbird
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mehmetkahya0/temp-mail](https://github.com/mehmetkahya0/temp-mail) ⭐ 181 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-28 - Disposable emails
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/emersion/hydroxide](https://github.com/emersion/hydroxide) ⚠️ Archived - ProtonMail bridge
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) ⭐ 1,686 | 🐛 79 | 🌐 TypeScript | 📅 2026-09-29 - Unofficial ProtonMail desktop app
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) ⭐ 1,685 | 🐛 79 | 🌐 TypeScript | 📅 2026-09-29 - Unofficial ProtonMail desktop app
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) ⭐ 666 | 🐛 349 | 🌐 Dart | 📅 2026-11-02 - Mobile email app
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) ⭐ 666 | 🐛 349 | 🌐 Dart | 📅 2026-11-03 - Mobile email app
 
 ## Browsers
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/floorp-Projects/floorp](https://github.com/floorp-Projects/floorp/) ⭐ 8,476 | 🐛 126 | 🌐 TypeScript | 📅 2026-11-02 - Customizable Firefox-based browser
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/floorp-Projects/floorp](https://github.com/floorp-Projects/floorp/) ⭐ 8,473 | 🐛 127 | 🌐 TypeScript | 📅 2026-11-03 - Customizable Firefox-based browser
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) ⭐ 66,808 | 🐛 481 | 🌐 C++ | 📅 2026-11-03 - Independent browser
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) ⭐ 66,826 | 🐛 457 | 🌐 C++ | 📅 2026-11-03 - Independent browser
 
 [<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/librewolf-community/browser](https://gitlab.com/librewolf-community/browser/source) - Privacy-focused Firefox browser
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mullvad/mullvad-browser](https://github.com/mullvad/mullvad-browser/tree/mullvad-browser-128.1.0esr-14.0-1) ⭐ 2,628 | 🐛 178 | 🌐 Shell | 📅 2026-10-29 - Privacy-focused browser
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mullvad/mullvad-browser](https://github.com/mullvad/mullvad-browser/tree/mullvad-browser-128.1.0esr-14.0-1) ⭐ 2,630 | 🐛 179 | 🌐 Shell | 📅 2026-10-29 - Privacy-focused browser
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/brave/brave-browser](https://github.com/brave/brave-browser) ⭐ 24,079 | 🐛 11,257 | 📅 2026-11-03 - Chromium-based privacy browser
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/brave/brave-browser](https://github.com/brave/brave-browser) ⭐ 24,094 | 🐛 11,592 | 📅 2026-11-03 - Chromium-based privacy browser
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/zen-browser/desktop](https://github.com/zen-browser/desktop) ⭐ 45,525 | 🐛 824 | 🌐 C++ | 📅 2026-11-02 - Firefox-based browser
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/zen-browser/desktop](https://github.com/zen-browser/desktop) ⭐ 45,550 | 🐛 831 | 🌐 C++ | 📅 2026-11-03 - Firefox-based browser
 
 ## Browser Extensions/Scripts/Tools
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/gorhill/uBlock](https://github.com/gorhill/uBlock) ⭐ 69,037 | 🐛 15 | 🌐 JavaScript | 📅 2026-11-02 - This is the greatest adblocker of All Time
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/gorhill/uBlock](https://github.com/gorhill/uBlock) ⭐ 69,058 | 🐛 15 | 🌐 JavaScript | 📅 2026-11-03 - This is the greatest adblocker of All Time
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) ⭐ 14,014 | 🐛 455 | 🌐 TypeScript | 📅 2026-11-01 - Skip YouTube video sponsors
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) ⭐ 14,019 | 🐛 455 | 🌐 TypeScript | 📅 2026-11-01 - Skip YouTube video sponsors
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) ⭐ 9,112 | 🐛 87 | 🌐 JavaScript | 📅 2026-11-02 - Userscript manager
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) ⭐ 9,115 | 🐛 86 | 🌐 JavaScript | 📅 2026-11-03 - Userscript manager
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/openstyles/stylus](https://github.com/openstyles/stylus) ⭐ 6,974 | 🐛 91 | 🌐 JavaScript | 📅 2026-11-01 - Userstyles manager
 
@@ -532,7 +532,7 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/ClearURLs/ClearUrls](https://gitlab.com/ClearURLs/ClearUrls) - Remove tracking elements from URLs
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ray-lothian/UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher) ⭐ 1,542 | 🐛 153 | 🌐 JavaScript | 📅 2026-10-31 - User-Agent spoofer
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ray-lothian/UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher) ⭐ 1,540 | 🐛 153 | 🌐 JavaScript | 📅 2026-10-31 - User-Agent spoofer
 
 [<img src="https://icon.horse/icon/codeberg.org" height="20px" align="center"/>/Amm0ni4/bypass-all-shortlinks-debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated) - Auto-bypass link shorteners
 
@@ -540,29 +540,29 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/gitflic.ru" height="20px" align="center"/>/magnolia1234/bypass-paywalls-firefox-clean](https://gitflic.ru/project/magnolia1234/bypass-paywalls-firefox-clean) - (Firefox) Bypass paywalls on articles
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sblask-webextensions/webextension-skip-redirect](https://github.com/sblask-webextensions/webextension-skip-redirect) ⭐ 591 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-01 - Skips directly to final URL
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sblask-webextensions/webextension-skip-redirect](https://github.com/sblask-webextensions/webextension-skip-redirect) ⭐ 593 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-01 - Skips directly to final URL
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/wanhose/cookie-dialog-monster](https://github.com/wanhose/cookie-dialog-monster) ⚠️ Archived - Auto hides cookie consent dialogs
 
 [<img src="https://icon.horse/icon/codeberg.org" height="20px" align="center"/>/LibRedirect/browser\_extension](https://codeberg.org/LibRedirect/browser_extension) - Redirects popular sites to alternative frontends
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/refined-github/refined-github](https://github.com/refined-github/refined-github) ⭐ 32,427 | 🐛 83 | 🌐 TypeScript | 📅 2026-11-02 - GitHub QoL tweaks
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/refined-github/refined-github](https://github.com/refined-github/refined-github) ⭐ 32,431 | 🐛 81 | 🌐 TypeScript | 📅 2026-11-03 - GitHub QoL tweaks
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/NicolaeNMV/BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) ⭐ 433 | 🐛 26 | 🌐 JavaScript | 📅 2026-05-16 - Close any overlay on any website
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) ⭐ 6,388 | 🐛 578 | 🌐 TypeScript | 📅 2026-10-26 - Vim-like interface for Firefox
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) ⭐ 6,389 | 🐛 578 | 🌐 TypeScript | 📅 2026-10-26 - Vim-like interface for Firefox
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/goodtube4u/goodtube](https://github.com/goodtube4u/goodtube) - Script to mod YouTube
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/arkenfox/user.js](https://github.com/arkenfox/user.js) ⭐ 12,954 | 🐛 21 | 🌐 JavaScript | 📅 2026-10-31 - Firefox user.js to harden privacy
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) ⭐ 10,964 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-07 - Firefox user.js for speed, privacy, and security
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) ⭐ 10,966 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-07 - Firefox user.js for speed, privacy, and security
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/xiaoxiaoflood/firefox-scripts](https://github.com/xiaoxiaoflood/firefox-scripts) ⭐ 1,357 | 🐛 89 | 🌐 JavaScript | 📅 2025-02-10 - Firefox scripts and extensions
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/maxhu08/mtab](https://github.com/maxhu08/mtab) ⭐ 575 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-28 - New tab extension
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/linuxmint/webapp-manager](https://github.com/linuxmint/webapp-manager) ⭐ 1,009 | 🐛 193 | 🌐 Python | 📅 2026-02-11 - Create webapps
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/linuxmint/webapp-manager](https://github.com/linuxmint/webapp-manager) ⭐ 1,010 | 🐛 193 | 🌐 Python | 📅 2026-02-11 - Create webapps
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Abdallah-Alwarawreh/Syrup](https://github.com/Abdallah-Alwarawreh/Syrup) ⚠️ Archived - Honey alternative
 
@@ -570,51 +570,51 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 ## Download Managers/Torrenters
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/qbittorrent/qBittorent](https://github.com/qbittorrent/qBittorrent) ⭐ 41,315 | 🐛 2,709 | 🌐 C++ | 📅 2026-11-03 - Torrent client
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/qbittorrent/qBittorent](https://github.com/qbittorrent/qBittorrent) ⭐ 41,338 | 🐛 2,712 | 🌐 C++ | 📅 2026-11-03 - Torrent client
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/transmission/transmission](https://github.com/transmission/transmission) ⭐ 15,373 | 🐛 901 | 🌐 C++ | 📅 2026-11-02 - Torrent client
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/transmission/transmission](https://github.com/transmission/transmission) ⭐ 15,379 | 🐛 901 | 🌐 C++ | 📅 2026-11-02 - Torrent client
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/subhra74/xdm](https://github.com/subhra74/xdm) ⭐ 8,267 | 🐛 93 | 🌐 Kotlin | 📅 2026-11-01 - Download manager/accelerator
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/subhra74/xdm](https://github.com/subhra74/xdm) ⭐ 8,285 | 🐛 93 | 🌐 Kotlin | 📅 2026-11-01 - Download manager/accelerator
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Download manager
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/agalwood/Motrix](https://github.com/agalwood/Motrix) ⭐ 57,712 | 🐛 175 | 🌐 TypeScript | 📅 2026-11-02 - Full-featured download manager
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/agalwood/Motrix](https://github.com/agalwood/Motrix) ⭐ 57,754 | 🐛 176 | 🌐 TypeScript | 📅 2026-11-03 - Full-featured download manager
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/imfile-io/imfile-desktop](https://github.com/imfile-io/imfile-desktop/) ⭐ 4,534 | 🐛 42 | 🌐 JavaScript | 📅 2026-11-01 - Maintained Motrix fork
 
 ## Creative
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/darktable-org/darktable](https://github.com/darktable-org/darktable) ⭐ 13,384 | 🐛 656 | 🌐 C | 📅 2026-11-03 - Image post-processing/editing
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/darktable-org/darktable](https://github.com/darktable-org/darktable) ⭐ 13,393 | 🐛 659 | 🌐 C | 📅 2026-11-03 - Image post-processing/editing
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/aurelienpierreeng/ansel](https://github.com/aurelienpierreeng/ansel) ⭐ 1,059 | 🐛 113 | 🌐 C | 📅 2026-10-30 - Modified darktable to improve workflow
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Beep6581/RawTherapee](https://github.com/Beep6581/RawTherapee) ⭐ 4,265 | 🐛 1,053 | 🌐 C++ | 📅 2026-11-01 - Cross-platform raw photo processing program
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Beep6581/RawTherapee](https://github.com/Beep6581/RawTherapee) ⭐ 4,272 | 🐛 1,053 | 🌐 C++ | 📅 2026-11-01 - Cross-platform raw photo processing program
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) ⭐ 15,614 | 🐛 1,268 | 🌐 C++ | 📅 2026-11-01 - Handwriting notetaking software
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) ⭐ 15,621 | 🐛 1,267 | 🌐 C++ | 📅 2026-11-03 - Handwriting notetaking software
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/KDE/Krita](https://github.com/KDE/krita) ⭐ 10,682 | 🐛 0 | 🌐 C++ | 📅 2026-11-02 - Digital art/painting application
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/KDE/Krita](https://github.com/KDE/krita) ⭐ 10,686 | 🐛 0 | 🌐 C++ | 📅 2026-11-03 - Digital art/painting application
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) ⭐ 27,822 | 🐛 457 | 🌐 Rust | 📅 2026-11-02 - Vector and raster editor
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) ⭐ 27,834 | 🐛 456 | 🌐 Rust | 📅 2026-11-03 - Vector and raster editor
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mypaint/mypaint](https://github.com/mypaint/mypaint) ⭐ 2,998 | 🐛 230 | 🌐 Python | 📅 2026-10-20 - Simple drawing/painting program
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mypaint/mypaint](https://github.com/mypaint/mypaint) ⭐ 2,999 | 🐛 230 | 🌐 Python | 📅 2026-10-20 - Simple drawing/painting program
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/maoschanz/drawing](https://github.com/maoschanz/drawing) ⭐ 874 | 🐛 128 | 🌐 Python | 📅 2026-01-28 - Simple image editor for Linux
 
 [<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/inkscape/inkscape](https://gitlab.com/inkscape/inkscape) - Vector image editor
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 135,054 | 🐛 3,468 | 🌐 TypeScript | 📅 2026-11-02 - Virtual whiteboard
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 135,113 | 🐛 3,473 | 🌐 TypeScript | 📅 2026-11-03 - Virtual whiteboard
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/PintaProject/Pinta](https://github.com/PintaProject/Pinta) ⭐ 4,125 | 🐛 231 | 🌐 C# | 📅 2026-11-02 - GTK clone of paint.net
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) ⭐ 10,925 | 🐛 86 | 🌐 GDScript | 📅 2026-11-02 - Cross-platform Pixel art multitool
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) ⭐ 10,953 | 🐛 85 | 🌐 GDScript | 📅 2026-11-03 - Cross-platform Pixel art multitool
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/MaurycyLiebnerr/enve](https://github.com/MaurycyLiebner/enve) ⚠️ Archived - 2D animation software
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/synfig/synfig](https://github.com/synfig/synfig/) ⭐ 2,330 | 🐛 736 | 🌐 C++ | 📅 2026-11-01 - 2D animation software
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/synfig/synfig](https://github.com/synfig/synfig/) ⭐ 2,334 | 🐛 736 | 🌐 C++ | 📅 2026-11-01 - 2D animation software
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) ⭐ 7,902 | 🐛 207 | 🌐 C++ | 📅 2026-10-28 - 2D animation software
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) ⭐ 7,921 | 🐛 207 | 🌐 C++ | 📅 2026-10-28 - 2D animation software
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/LMMS/lmms](https://github.com/LMMS/lmms) ⭐ 10,589 | 🐛 1,490 | 🌐 C++ | 📅 2026-11-02 - Cross-platform music production software
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/LMMS/lmms](https://github.com/LMMS/lmms) ⭐ 10,595 | 🐛 1,494 | 🌐 C++ | 📅 2026-11-02 - Cross-platform music production software
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/studiorack/studiorack-site](https://github.com/studiorack/studiorack-site) ⭐ 24 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-01 - Audio plugin site
 
@@ -622,93 +622,93 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/VASTDynamics/Vaporizer2](https://github.com/VASTDynamics/Vaporizer2) ⭐ 598 | 🐛 20 | 🌐 C++ | 📅 2024-09-14 - Synthesizer
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/PolyMeilex/Neothesia](https://github.com/PolyMeilex/Neothesia/) ⭐ 1,594 | 🐛 44 | 🌐 Rust | 📅 2026-11-02 - Cross-platform MIDI visualizer
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/PolyMeilex/Neothesia](https://github.com/PolyMeilex/Neothesia/) ⭐ 1,596 | 🐛 43 | 🌐 Rust | 📅 2026-11-02 - Cross-platform MIDI visualizer
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/blender/blender](https://github.com/blender/blender) ⭐ 21,553 | 🐛 0 | 🌐 C++ | 📅 2026-11-03 - 3D creation suite
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/blender/blender](https://github.com/blender/blender) ⭐ 21,602 | 🐛 0 | 🌐 C++ | 📅 2026-11-03 - 3D creation suite
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) ⭐ 35,071 | 🐛 4,050 | 🌐 C++ | 📅 2026-11-02 - Cross-platform 3D modeler
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) ⭐ 35,094 | 🐛 4,032 | 🌐 C++ | 📅 2026-11-03 - Cross-platform 3D modeler
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/KDE/kdenlive](https://github.com/KDE/kdenlive) ⭐ 6,038 | 🐛 0 | 🌐 C++ | 📅 2026-11-02 - MLT Framework video editor
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/KDE/kdenlive](https://github.com/KDE/kdenlive) ⭐ 6,042 | 🐛 0 | 🌐 C++ | 📅 2026-11-03 - MLT Framework video editor
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) ⭐ 6,738 | 🐛 355 | 🌐 Python | 📅 2026-11-02 - Cross-platform video editor
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) ⭐ 6,739 | 🐛 359 | 🌐 Python | 📅 2026-11-03 - Cross-platform video editor
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/olive-editor/olive](https://github.com/olive-editor/olive) ⭐ 9,146 | 🐛 161 | 🌐 C++ | 📅 2024-12-05 - Cross-platform non-linear video editor
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/olive-editor/olive](https://github.com/olive-editor/olive) ⭐ 9,147 | 🐛 161 | 🌐 C++ | 📅 2024-12-05 - Cross-platform non-linear video editor
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/NatronGitHub/Natron](https://github.com/NatronGitHub/Natron) ⭐ 5,628 | 🐛 290 | 🌐 C++ | 📅 2026-07-24 - Cross-platform Adobe Effects alternative
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/NatronGitHub/Natron](https://github.com/NatronGitHub/Natron) ⭐ 5,631 | 🐛 290 | 🌐 C++ | 📅 2026-07-24 - Cross-platform Adobe Effects alternative
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/penpot/penpot](https://github.com/penpot/penpot) ⭐ 61,998 | 🐛 939 | 🌐 Clojure | 📅 2026-11-02 - Design and code collab tool
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/penpot/penpot](https://github.com/penpot/penpot) ⭐ 62,028 | 🐛 950 | 🌐 Clojure | 📅 2026-11-03 - Design and code collab tool
 
 ## Privacy/Security
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/keepassxcreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) ⭐ 29,715 | 🐛 991 | 🌐 C++ | 📅 2026-11-02 - Password manager
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/keepassxcreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) ⭐ 29,746 | 🐛 995 | 🌐 C++ | 📅 2026-11-03 - Password manager
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/bitwarden/clients](https://github.com/bitwarden/clients) ⭐ 14,132 | 🐛 1,438 | 🌐 TypeScript | 📅 2026-11-03 - Password manager
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/bitwarden/clients](https://github.com/bitwarden/clients) ⭐ 14,136 | 🐛 1,422 | 🌐 TypeScript | 📅 2026-11-03 - Password manager
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) ⭐ 70,133 | 🐛 92 | 🌐 Rust | 📅 2026-11-02 - Alternate Bitwarden server
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) ⭐ 70,184 | 🐛 92 | 🌐 Rust | 📅 2026-11-02 - Alternate Bitwarden server
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/authpass/authpass](https://github.com/authpass/authpass) ⭐ 2,810 | 🐛 171 | 🌐 Dart | 📅 2026-09-15 - Cross-platform Password manager
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/authpass/authpass](https://github.com/authpass/authpass) ⭐ 2,809 | 🐛 171 | 🌐 Dart | 📅 2026-09-15 - Cross-platform Password manager
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Levminer/authme](https://github.com/Levminer/authme) ⭐ 549 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-30 - Cross-platform 2FA authenticator app
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Levminer/authme](https://github.com/Levminer/authme) ⭐ 548 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-30 - Cross-platform 2FA authenticator app
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/librespeed/speedtest](https://github.com/librespeed/speedtest) ⭐ 15,283 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-23 - Libre internet speed test
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/librespeed/speedtest](https://github.com/librespeed/speedtest) ⭐ 15,286 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-23 - Libre internet speed test
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/paumillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) ⭐ 4,901 | 🐛 13 | 🌐 JavaScript | 📅 2026-07-25 - DNS over HTTPS config profiles for iOS & macOS
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/paumillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) ⭐ 4,903 | 🐛 13 | 🌐 JavaScript | 📅 2026-07-25 - DNS over HTTPS config profiles for iOS & macOS
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) ⭐ 1,993 | 🐛 3 | 🌐 Shell | 📅 2026-11-02 - DNS Blocklists
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) ⭐ 16,425 | 🐛 268 | 🌐 Java | 📅 2026-11-02 - Cross-platform file encryption
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) ⭐ 16,442 | 🐛 268 | 🌐 Java | 📅 2026-11-03 - Cross-platform file encryption
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) ⭐ 22,298 | 🐛 282 | 🌐 Vue | 📅 2026-11-03 - Privacy (and tweaked) client for YouTube
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) ⭐ 22,312 | 🐛 282 | 🌐 Vue | 📅 2026-11-03 - Privacy (and tweaked) client for YouTube
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) ⭐ 6,159 | 🐛 252 | 🌐 TypeScript | 📅 2026-02-13 - Privacy configurations for desktop platforms
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) ⭐ 6,160 | 🐛 252 | 🌐 TypeScript | 📅 2026-02-13 - Privacy configurations for desktop platforms
 
 [<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/prism-break/prism-break](https://gitlab.com/prism-break/prism-break) - Privacy/security-oriented software recommendations
 
 [<img src="https://icon.horse/icon/codeberg.org" height="20px" align="center"/>/swiso/website](https://codeberg.org/swiso/website) - Ethical and privacy-conscious alternatives
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) ⭐ 2,320 | 🐛 31 | 🌐 Shell | 📅 2025-10-13 - Debian/Arch privacy tool
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) ⭐ 2,321 | 🐛 31 | 🌐 Shell | 📅 2025-10-13 - Debian/Arch privacy tool
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) ⭐ 40,406 | 🐛 1,444 | 🌐 Java | 📅 2026-11-02 - Privacy focused streaming frontend for Android
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) ⭐ 40,414 | 🐛 1,444 | 🌐 Java | 📅 2026-11-03 - Privacy focused streaming frontend for Android
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/TeamPiped/Piped](https://github.com/TeamPiped/Piped) ⭐ 10,301 | 🐛 324 | 🌐 Vue | 📅 2026-10-30 - Privacy focused frontend for YouTube
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/TeamPiped/Piped](https://github.com/TeamPiped/Piped) ⭐ 10,306 | 🐛 324 | 🌐 Vue | 📅 2026-10-30 - Privacy focused frontend for YouTube
 
 [<img src="https://icon.horse/icon/codeberg.org" height="20px" align="center"/>/Hyperpipe/Hyperpipe](https://codeberg.org/Hyperpipe/Hyperpipe) - Privacy focused frontend for YouTube Music
 
 [<img src="https://icon.horse/icon/codeberg.org" height="20px" align="center"/>/VnPower/PixivFE](https://codeberg.org/VnPower/PixivFE) - Private frontend for Pixiv
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) ⭐ 9,239 | 🐛 112 | 📅 2024-08-18 - List of private frontends
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) ⭐ 9,240 | 🐛 112 | 📅 2024-08-18 - List of private frontends
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) ⭐ 2,334 | 🐛 29 | 📅 2024-03-21 - List of private frontends
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) ⭐ 8,726 | 🐛 204 | 🌐 PHP | 📅 2026-10-30 - Private alternative to pastebin
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) ⭐ 8,732 | 🐛 201 | 🌐 PHP | 📅 2026-11-03 - Private alternative to pastebin
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/VSCodium/vscodium](https://github.com/VSCodium/vscodium) ⭐ 33,923 | 🐛 150 | 🌐 Shell | 📅 2026-10-31 - VS Code without Microsoft
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/VSCodium/vscodium](https://github.com/VSCodium/vscodium) ⭐ 33,931 | 🐛 150 | 🌐 Shell | 📅 2026-10-31 - VS Code without Microsoft
 
 [<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/futo/keyboard/latime](https://gitlab.futo.org/keyboard/latinime) - Android keyboard that doesn't spy
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/searxng/searxng](https://github.com/searxng/searxng) ⭐ 39,145 | 🐛 207 | 🌐 Python | 📅 2026-11-02 - Internet metasearch engine
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/searxng/searxng](https://github.com/searxng/searxng) ⭐ 39,184 | 🐛 209 | 🌐 Python | 📅 2026-11-02 - Internet metasearch engine
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) ⭐ 17,256 | 🐛 132 | 🌐 Python | 📅 2026-10-26 - Translator
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) ⭐ 17,266 | 🐛 132 | 🌐 Python | 📅 2026-10-26 - Translator
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/thedaviddelta/lingya-translate](https://github.com/thedaviddelta/lingva-translate) ⭐ 1,852 | 🐛 47 | 🌐 TypeScript | 📅 2023-08-01 - Alternative front-end for Google Translate
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/thedaviddelta/lingya-translate](https://github.com/thedaviddelta/lingva-translate) ⭐ 1,851 | 🐛 47 | 🌐 TypeScript | 📅 2023-08-01 - Alternative front-end for Google Translate
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) ⭐ 8,125 | 🐛 38 | 🌐 Python | 📅 2026-11-02 - Self-hosted photo management service
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) ⭐ 8,128 | 🐛 38 | 🌐 Python | 📅 2026-11-03 - Self-hosted photo management service
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/photoprism/photoprism](https://github.com/photoprism/photoprism) ⭐ 40,396 | 🐛 452 | 🌐 Go | 📅 2026-11-02 - AI-powered photos app for the Decentralized Web
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/photoprism/photoprism](https://github.com/photoprism/photoprism) ⭐ 40,404 | 🐛 452 | 🌐 Go | 📅 2026-11-02 - AI-powered photos app for the Decentralized Web
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/nucleardog/Shitter](https://github.com/nuclearfog/Shitter) - Lightweight Android app for Mastodon
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) ⭐ 3,807 | 🐛 360 | 🌐 Kotlin | 📅 2026-10-30 - \[Android] Hardened Signal app
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) ⭐ 3,808 | 🐛 360 | 🌐 Kotlin | 📅 2026-10-30 - \[Android] Hardened Signal app
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ⭐ 15,384 | 🐛 693 | 🌐 TypeScript | 📅 2026-11-02 - Decentralized video platform
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) ⭐ 16,123 | 🐛 104 | 🌐 Python | 📅 2026-10-24 - Proxy server to bypass Cloudflare protection
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) ⭐ 16,131 | 🐛 105 | 🌐 Python | 📅 2026-10-24 - Proxy server to bypass Cloudflare protection
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Rafficer/proton-cli-community](https://github.com/Rafficer/linux-cli-community) ⚠️ Archived - Linux command-line client for ProtonVPN
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/boltgolt/howdy](https://github.com/boltgolt/howdy) ⭐ 7,854 | 🐛 364 | 🌐 Python | 📅 2025-07-29 - Facial authentication for Linux
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/boltgolt/howdy](https://github.com/boltgolt/howdy) ⭐ 7,857 | 🐛 364 | 🌐 Python | 📅 2025-07-29 - Facial authentication for Linux
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) ⭐ 6,981 | 🐛 2 | 📅 2026-10-31 - List of people-search opt out links
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) ⭐ 6,984 | 🐛 2 | 📅 2026-10-31 - List of people-search opt out links
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/TeamPiped/RYD-Proxy](https://github.com/TeamPiped/RYD-Proxy) ⭐ 34 | 🐛 2 | 🌐 Go | 📅 2024-06-17 - non-logging proxy for Return YouTube Dislike API server
 
@@ -716,133 +716,133 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/codeberg.org" height="20px" align="center"/>/tenacityteam/tenacity](https://codeberg.org/tenacityteam/tenacity) - (Audacity fork) Multi-track audio editor and recorder
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mattermost/focalboard](https://github.com/mattermost/focalboard) ⭐ 26,539 | 🐛 784 | 🌐 TypeScript | 📅 2026-05-18 - Project management tool alternative to Trello/Notion/Asana
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mattermost/focalboard](https://github.com/mattermost/focalboard) ⭐ 26,540 | 🐛 784 | 🌐 TypeScript | 📅 2026-05-18 - Project management tool alternative to Trello/Notion/Asana
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) ⭐ 74,136 | 🐛 804 | 🌐 TypeScript | 📅 2026-11-02 - Notion/Miro alternative
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) ⭐ 74,182 | 🐛 806 | 🌐 TypeScript | 📅 2026-11-02 - Notion/Miro alternative
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ⭐ 78,123 | 🐛 1,023 | 🌐 Dart | 📅 2026-11-02 - Cross-platform Notion alternative
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ⭐ 78,155 | 🐛 1,024 | 🌐 Dart | 📅 2026-11-02 - Cross-platform Notion alternative
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) ⭐ 13,855 | 🐛 536 | 🌐 TypeScript | 📅 2026-11-02 - Publication workbench
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) ⭐ 13,859 | 🐛 539 | 🌐 TypeScript | 📅 2026-11-03 - Publication workbench
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/gristlabs/grist-core](https://github.com/gristlabs/grist-core) ⭐ 12,043 | 🐛 745 | 🌐 TypeScript | 📅 2026-11-02 - Modern relational spreadsheets
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/gristlabs/grist-core](https://github.com/gristlabs/grist-core) ⭐ 12,042 | 🐛 743 | 🌐 TypeScript | 📅 2026-11-03 - Modern relational spreadsheets
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/zed-industries/zed](https://github.com/zed-industries/zed) ⭐ 92,578 | 🐛 3,023 | 🌐 Rust | 📅 2026-11-02 - Code editor
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/zed-industries/zed](https://github.com/zed-industries/zed) ⭐ 92,634 | 🐛 3,028 | 🌐 Rust | 📅 2026-11-03 - Code editor
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/rhyolite-org/rhyolite](https://github.com/rhyolite-org/rhyolite) ⭐ 203 | 🐛 9 | 🌐 Rust | 📅 2026-04-14 - Markdown editor
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/neovim/neovim](https://github.com/neovim/neovim) ⭐ 103,321 | 🐛 1,986 | 🌐 Vim Script | 📅 2026-11-02 - Better vim
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/neovim/neovim](https://github.com/neovim/neovim) ⭐ 103,345 | 🐛 1,995 | 🌐 Vim Script | 📅 2026-11-03 - Better vim
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/neovide/neovide](https://github.com/neovide/neovide) ⭐ 15,293 | 🐛 280 | 🌐 Rust | 📅 2026-11-02 - GUI for Neovim
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/neovide/neovide](https://github.com/neovide/neovide) ⭐ 15,295 | 🐛 281 | 🌐 Rust | 📅 2026-11-03 - GUI for Neovim
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/helix-editor/helix](https://github.com/helix-editor/helix) ⭐ 46,774 | 🐛 1,777 | 🌐 Rust | 📅 2026-09-29 - Vim-like modal text editor
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/helix-editor/helix](https://github.com/helix-editor/helix) ⭐ 46,778 | 🐛 1,779 | 🌐 Rust | 📅 2026-09-29 - Vim-like modal text editor
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/reorproject/reor](https://github.com/reorproject/reor) ⚠️ Archived - AI-powered note taking app
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/laurent22/joplin](https://github.com/laurent22/joplin/) ⭐ 56,997 | 🐛 658 | 🌐 TypeScript | 📅 2026-11-03 - Cross-platform note taking app
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/laurent22/joplin](https://github.com/laurent22/joplin/) ⭐ 57,010 | 🐛 656 | 🌐 TypeScript | 📅 2026-11-03 - Cross-platform note taking app
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/usememos/memos](https://github.com/usememos/memos) ⭐ 64,238 | 🐛 52 | 🌐 Go | 📅 2026-11-02 - Self-hostable note taking service
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/usememos/memos](https://github.com/usememos/memos) ⭐ 64,250 | 🐛 55 | 🌐 Go | 📅 2026-11-02 - Self-hostable note taking service
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) ⭐ 47,042 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-03 - Privacy-first personal knowledge management system
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) ⭐ 47,061 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-03 - Privacy-first personal knowledge management system
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) ⭐ 9,041 | 🐛 229 | 🌐 TypeScript | 📅 2026-11-02 - Personal knowledge base
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) ⭐ 9,043 | 🐛 231 | 🌐 TypeScript | 📅 2026-11-03 - Personal knowledge base
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/hcengineering/huly](https://github.com/hcengineering/platform) ⭐ 28,045 | 🐛 728 | 🌐 TypeScript | 📅 2026-11-02 - Project management platform
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/hcengineering/huly](https://github.com/hcengineering/platform) ⭐ 28,043 | 🐛 728 | 🌐 TypeScript | 📅 2026-11-02 - Project management platform
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) ⭐ 95,610 | 🐛 513 | 🌐 TypeScript | 📅 2026-11-03 - Local-hosted PDF editor
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) ⭐ 95,689 | 🐛 509 | 🌐 TypeScript | 📅 2026-11-03 - Local-hosted PDF editor
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/docuenso/documenso](https://github.com/documenso/documenso) ⭐ 15,635 | 🐛 254 | 🌐 TypeScript | 📅 2026-11-03 - Digital document signer
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/docuenso/documenso](https://github.com/documenso/documenso) ⭐ 15,645 | 🐛 252 | 🌐 TypeScript | 📅 2026-11-03 - Digital document signer
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/docusealco/docuseal](https://github.com/docusealco/docuseal) ⭐ 18,982 | 🐛 130 | 🌐 Ruby | 📅 2026-11-02 - Digital document signer
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/docusealco/docuseal](https://github.com/docusealco/docuseal) ⭐ 18,989 | 🐛 130 | 🌐 Ruby | 📅 2026-11-02 - Digital document signer
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ether/etherpad-lite](https://github.com/ether/etherpad-lite) ⭐ 18,617 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-02 - Real-time collaborative document editor
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ether/etherpad-lite](https://github.com/ether/etherpad-lite) ⭐ 18,617 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-03 - Real-time collaborative document editor
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) ⭐ 2,621 | 🐛 103 | 🌐 C++ | 📅 2026-11-01 - Mobile document scanner
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) ⭐ 2,624 | 🐛 103 | 🌐 C++ | 📅 2026-11-03 - Mobile document scanner
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) ⭐ 7,080 | 🐛 1,146 | 🌐 Shell | 📅 2026-10-26 - Collaborative online office suite
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) ⭐ 7,083 | 🐛 1,150 | 🌐 Shell | 📅 2026-10-26 - Collaborative online office suite
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) ⭐ 8,040 | 🐛 359 | 🌐 JavaScript | 📅 2026-11-02 - E2EE Collaborative office suite
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) ⭐ 8,043 | 🐛 358 | 🌐 JavaScript | 📅 2026-11-03 - E2EE Collaborative office suite
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/SwitchbackTech/compass](https://github.com/SwitchbackTech/compass) ⭐ 228 | 🐛 41 | 🌐 TypeScript | 📅 2026-11-03 - Calendar app
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/SwitchbackTech/compass](https://github.com/SwitchbackTech/compass) ⭐ 227 | 🐛 43 | 🌐 TypeScript | 📅 2026-11-03 - Calendar app
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/glanceapp/glance](https://github.com/glanceapp/glance) ⭐ 37,986 | 🐛 326 | 🌐 Go | 📅 2026-11-02 - Self-hosted feed-at-a-glance dashboard
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/glanceapp/glance](https://github.com/glanceapp/glance) ⭐ 38,003 | 🐛 328 | 🌐 Go | 📅 2026-11-02 - Self-hosted feed-at-a-glance dashboard
 
 ## Media
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mpv-player/mpv](https://github.com/mpv-player/mpv) ⭐ 37,681 | 🐛 1,160 | 🌐 C | 📅 2026-11-02 - Extensive media player
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mpv-player/mpv](https://github.com/mpv-player/mpv) ⭐ 37,695 | 🐛 1,162 | 🌐 C | 📅 2026-11-03 - Extensive media player
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) ⭐ 5,533 | 🐛 156 | 🌐 C# | 📅 2026-02-09 - mpv with a GUI for Windows
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) ⭐ 5,534 | 🐛 156 | 🌐 C# | 📅 2026-02-09 - mpv with a GUI for Windows
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/celluloid-player/celluloid](https://github.com/celluloid-player/celluloid) ⭐ 1,485 | 🐛 292 | 🌐 C | 📅 2026-10-04 - GTK frontend for mpv
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/celluloid-player/celluloid](https://github.com/celluloid-player/celluloid) ⭐ 1,485 | 🐛 293 | 🌐 C | 📅 2026-10-04 - GTK frontend for mpv
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/CogentRedTester/mpv-scripts](https://github.com/CogentRedTester/mpv-scripts) ⭐ 302 | 🐛 4 | 🌐 Lua | 📅 2026-01-11 - mpv scripts
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/digimezzo/dopamine](https://github.com/digimezzo/dopamine) ⭐ 2,419 | 🐛 382 | 🌐 TypeScript | 📅 2026-11-02 - Cross-platform music player
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/digimezzo/dopamine](https://github.com/digimezzo/dopamine) ⭐ 2,420 | 🐛 381 | 🌐 TypeScript | 📅 2026-11-03 - Cross-platform music player
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/DeaDBeeF-Player/deadbeef](https://github.com/DeaDBeeF-Player/deadbeef) ⭐ 1,986 | 🐛 364 | 🌐 C | 📅 2026-11-02 -  Flexible cross-platform music player
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/fooyin/fooyin](https://github.com/fooyin/fooyin) ⭐ 2,638 | 🐛 352 | 🌐 C++ | 📅 2026-11-03 - Customizable music player for Linux
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/fooyin/fooyin](https://github.com/fooyin/fooyin) ⭐ 2,642 | 🐛 355 | 🌐 C++ | 📅 2026-11-03 - Customizable music player for Linux
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/marin-m/SongRec](https://github.com/marin-m/SongRec) ⭐ 2,039 | 🐛 71 | 🌐 Rust | 📅 2026-11-01 - Shazam client for Linux
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/marin-m/SongRec](https://github.com/marin-m/SongRec) ⭐ 2,040 | 🐛 69 | 🌐 Rust | 📅 2026-11-03 - Shazam client for Linux
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/bundit/kord](https://github.com/bundit/kord) ⭐ 672 | 🐛 55 | 🌐 JavaScript | 📅 2023-12-17 - Spotify, Soundcloud, and YouTube in one site
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/th-ch/youtube-music](https://github.com/th-ch/youtube-music) ⭐ 33,973 | 🐛 762 | 🌐 TypeScript | 📅 2026-11-02 - YouTube Music client with plugins
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/th-ch/youtube-music](https://github.com/th-ch/youtube-music) ⭐ 33,974 | 🐛 763 | 🌐 TypeScript | 📅 2026-11-03 - YouTube Music client with plugins
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/KRTirtho/spotube](https://github.com/KRTirtho/spotube) ⭐ 50,557 | 🐛 420 | 🌐 Kotlin | 📅 2026-11-02 - Cross-platform Spotify client that doesn't require Premium
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/KRTirtho/spotube](https://github.com/KRTirtho/spotube) ⭐ 50,565 | 🐛 418 | 🌐 Kotlin | 📅 2026-11-03 - Cross-platform Spotify client that doesn't require Premium
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/cococry/lyssa](https://github.com/cococry/lyssa) ⭐ 209 | 🐛 9 | 🌐 C++ | 📅 2024-06-01 - Minimal music player
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/StefanLobbenmeier/youtube-dl-gui](https://github.com/StefanLobbenmeier/youtube-dl-gui) ⭐ 2,670 | 🐛 171 | 🌐 JavaScript | 📅 2025-09-07 - YouTube downloader
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/StefanLobbenmeier/youtube-dl-gui](https://github.com/StefanLobbenmeier/youtube-dl-gui) ⭐ 2,671 | 🐛 171 | 🌐 JavaScript | 📅 2025-09-07 - YouTube downloader
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/alexta69/metube](https://github.com/alexta69/metube) ⭐ 15,166 | 🐛 6 | 🌐 Python | 📅 2026-11-01 - Self-hosted YouTube downloader
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/alexta69/metube](https://github.com/alexta69/metube) ⭐ 15,180 | 🐛 7 | 🌐 Python | 📅 2026-11-01 - Self-hosted YouTube downloader
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/nathom/streamrip](https://github.com/nathom/streamrip) ⭐ 5,111 | 🐛 338 | 🌐 Python | 📅 2026-08-04 - Music downloader for Qobuz, Tidal, SoundCloud, and Deezer
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/nathom/streamrip](https://github.com/nathom/streamrip) ⭐ 5,115 | 🐛 338 | 🌐 Python | 📅 2026-08-04 - Music downloader for Qobuz, Tidal, SoundCloud, and Deezer
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/staniel359/muffon](https://github.com/staniel359/muffon/) ⭐ 2,257 | 🐛 43 | 🌐 Vue | 📅 2026-10-26 - Multi-source music streaming + discovery client
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/staniel359/muffon](https://github.com/staniel359/muffon/) ⭐ 2,258 | 🐛 43 | 🌐 Vue | 📅 2026-10-26 - Multi-source music streaming + discovery client
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) ⭐ 3,089 | 🐛 322 | 🌐 Dart | 📅 2025-12-08 - Cross-platform music streamer
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) ⭐ 3,087 | 🐛 322 | 🌐 Dart | 📅 2025-12-08 - Cross-platform music streamer
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/zotify-dev/zotify](https://github.com/zotify-dev/zotify) ⭐ 2,573 | 🐛 221 | 🌐 Python | 📅 2024-09-18 - Music and podcast downloader
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/zotify-dev/zotify](https://github.com/zotify-dev/zotify) ⭐ 2,574 | 🐛 221 | 🌐 Python | 📅 2024-09-18 - Music and podcast downloader
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/nukeop/nuclear](https://github.com/nukeop/nuclear) ⭐ 18,857 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-03 - Streaming music player that finds free music for you
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/nukeop/nuclear](https://github.com/nukeop/nuclear) ⭐ 18,865 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-03 - Streaming music player that finds free music for you
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/metabrainz/listenbrainz-server](https://github.com/metabrainz/listenbrainz-server) ⭐ 1,049 | 🐛 85 | 🌐 Python | 📅 2026-11-02 - Server for ListenBrainz, Last.fm alternative
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/metabrainz/listenbrainz-server](https://github.com/metabrainz/listenbrainz-server) ⭐ 1,052 | 🐛 83 | 🌐 Python | 📅 2026-11-03 - Server for ListenBrainz, Last.fm alternative
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) ⭐ 1,297 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-30 - Scrobble plays from multiple sources to multiple clients
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) ⭐ 1,299 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-03 - Scrobble plays from multiple sources to multiple clients
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/krateng/maloja](https://github.com/krateng/maloja) ⭐ 1,857 | 🐛 135 | 🌐 Python | 📅 2026-10-17 - Self-hosted music scrobble database
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/krateng/maloja](https://github.com/krateng/maloja) ⭐ 1,856 | 🐛 135 | 🌐 Python | 📅 2026-10-17 - Self-hosted music scrobble database
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/streamlink/streamlink](https://github.com/streamlink/streamlink) ⭐ 11,889 | 🐛 71 | 🌐 Python | 📅 2026-11-02 -  Pipe video streams into media player
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/streamlink/streamlink](https://github.com/streamlink/streamlink) ⭐ 11,892 | 🐛 71 | 🌐 Python | 📅 2026-11-02 -  Pipe video streams into media player
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/streamlink/streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) ⭐ 2,868 | 🐛 27 | 🌐 JavaScript | 📅 2026-11-01 - Multi-platform twitch.tv browser for Streamlink
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/streamlink/streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) ⭐ 2,869 | 🐛 27 | 🌐 JavaScript | 📅 2026-11-01 - Multi-platform twitch.tv browser for Streamlink
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) ⭐ 14,792 | 🐛 211 | 🌐 C# | 📅 2026-10-31 - Windows image viewer
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) ⭐ 14,803 | 🐛 211 | 🌐 C# | 📅 2026-10-31 - Windows image viewer
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/easymodo/qimgv](https://github.com/easymodo/qimgv) ⭐ 3,165 | 🐛 300 | 🌐 C++ | 📅 2026-01-19 - Cross-platform image viewer
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/0x90d/videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) ⭐ 3,855 | 🐛 23 | 🌐 C# | 📅 2026-10-09 - Duplicate video and image finder
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/0x90d/videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) ⭐ 3,859 | 🐛 23 | 🌐 C# | 📅 2026-10-09 - Duplicate video and image finder
 
 ## Games
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) ⭐ 6,518 | 🐛 64 | 🌐 Rust | 📅 2026-10-18 - Backup tool for PC game data
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) ⭐ 6,520 | 🐛 64 | 🌐 Rust | 📅 2026-10-18 - Backup tool for PC game data
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) ⭐ 14,434 | 🐛 653 | 🌐 C# | 📅 2026-10-19 - Game library manager
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) ⭐ 14,441 | 🐛 654 | 🌐 C# | 📅 2026-11-03 - Game library manager
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) ⭐ 11,020 | 🐛 783 | 🌐 C++ | 📅 2026-11-02 - Custom launcher for Minecraft
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) ⭐ 11,027 | 🐛 793 | 🌐 C++ | 📅 2026-11-03 - Custom launcher for Minecraft
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/fn2006/PollyMC](https://github.com/fn2006/PollyMC) - Fork of Prism supporting accountless offline and FTB downloading
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/hero-persson/FjordLauncherUnlocked](https://github.com/hero-persson/FjordLauncherUnlocked) ⭐ 213 | 🐛 0 | 🌐 C++ | 📅 2026-09-15 - Maintained fork of fork of PollyMC reremoving DRM
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/hero-persson/FjordLauncherUnlocked](https://github.com/hero-persson/FjordLauncherUnlocked) ⭐ 212 | 🐛 0 | 🌐 C++ | 📅 2026-09-15 - Maintained fork of fork of PollyMC reremoving DRM
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) ⚠️ Archived- \[Android] Minecraft Java Edition launcher
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/PojavLauncherTeam/PojavLauncher\_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) ⚠️ Archived - \[iOS] Minecraft Java Edition launcher
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) ⭐ 12,571 | 🐛 959 | 🌐 TypeScript | 📅 2026-11-02 - Epic Games Launcher on Linux
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) ⭐ 12,581 | 🐛 966 | 🌐 TypeScript | 📅 2026-11-02 - Epic Games Launcher on Linux
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) ⭐ 6,070 | 🐛 220 | 🌐 C | 📅 2026-06-15 - Optimize Linux performance
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) ⭐ 6,071 | 🐛 220 | 🌐 C | 📅 2026-06-15 - Optimize Linux performance
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/fishstrap/fishstrap](https://github.com/fishstrap/fishstrap) ⭐ 635 | 🐛 80 | 🌐 C# | 📅 2026-10-31 - Custom Roblox bootstrapper
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/fishstrap/fishstrap](https://github.com/fishstrap/fishstrap) ⭐ 635 | 🐛 79 | 🌐 C# | 📅 2026-10-31 - Custom Roblox bootstrapper
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/xTrayambak/lucem](https://github.com/xTrayambak/lucem) ⭐ 72 | 🐛 0 | 🌐 Nim | 📅 2025-12-08 - Wrapper for Sober (Roblox Linux runtime)
 
@@ -854,13 +854,13 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/an-anime-team/honkers-launcher](https://github.com/an-anime-team/honkers-launcher) ⭐ 204 | 🐛 15 | 🌐 Fluent | 📅 2026-10-21- HI on Linux
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/an-anime-team/the-honkers-railway-launcher](https://github.com/an-anime-team/the-honkers-railway-launcher) ⭐ 1,054 | 🐛 158 | 🌐 Fluent | 📅 2026-10-21 - honk game on Linux
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/an-anime-team/the-honkers-railway-launcher](https://github.com/an-anime-team/the-honkers-railway-launcher) ⭐ 1,053 | 🐛 158 | 🌐 Fluent | 📅 2026-10-21 - honk game on Linux
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/yaagl/yet-another-anime-game-launcher](https://github.com/yaagl/yet-another-anime-game-launcher) ⭐ 1,679 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-26 - Thy Anime Games on Mac
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/yaagl/yet-another-anime-game-launcher](https://github.com/yaagl/yet-another-anime-game-launcher) ⭐ 1,682 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-26 - Thy Anime Games on Mac
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/NelloKudo/osu-winello](https://github.com/NelloKudo/osu-winello/) ⭐ 854 | 🐛 12 | 🌐 Shell | 📅 2026-10-19 - osu! on linux script
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/NelloKudo/osu-winello](https://github.com/NelloKudo/osu-winello/) ⭐ 853 | 🐛 12 | 🌐 Shell | 📅 2026-10-19 - osu! on linux script
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/KotRikD/tosu](https://github.com/KotRikD/tosu) ⭐ 589 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-23 - osu! overlays
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/KotRikD/tosu](https://github.com/KotRikD/tosu) ⭐ 591 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-23 - osu! overlays
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/nzbasic/batch-beatmap-downloader](https://github.com/nzbasic/batch-beatmap-downloader) ⭐ 226 | 🐛 15 | 🌐 TypeScript | 📅 2025-07-17 - Batch map downloader for osu!
 
@@ -870,111 +870,111 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 ## Android
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) ⭐ 11,869 | 🐛 113 | 🌐 Kotlin | 📅 2026-11-01 - Weather app
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) ⭐ 11,880 | 🐛 113 | 🌐 Kotlin | 📅 2026-11-01 - Weather app
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/GrapheneOS/hardened\_malloc](https://github.com/GrapheneOS/hardened_malloc) ⭐ 2,050 | 🐛 52 | 🌐 C | 📅 2026-11-02 - Privacy and security focused OS
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/GrapheneOS/hardened\_malloc](https://github.com/GrapheneOS/hardened_malloc) ⭐ 2,052 | 🐛 52 | 🌐 C | 📅 2026-11-03 - Privacy and security focused OS
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/LineageOS/android](https://github.com/LineageOS/android) ⭐ 4,734 | 🐛 2 | 📅 2026-11-03 - Alternate Android OS
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/LineageOS/android](https://github.com/LineageOS/android) ⭐ 4,736 | 🐛 2 | 📅 2026-11-03 - Alternate Android OS
 
 [<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/fdroid/fdroidclient](https://gitlab.com/fdroid/fdroidclient) - Client for [F-Droid](https://f-droid.org), a Free Software repo system
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) ⭐ 5,611 | 🐛 121 | 🌐 Kotlin | 📅 2026-10-23 - Modern F-Droid client
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) ⭐ 5,621 | 🐛 121 | 🌐 Kotlin | 📅 2026-10-23 - Modern F-Droid client
 
 [<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/AuroraOSS/AuroraStore](https://gitlab.com/AuroraOSS/AuroraStore) - Alternate Google Play store replacement
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Obtainium](https://github.com/ImranR98/Obtainium) ⭐ 21,153 | 🐛 368 | 🌐 Dart | 📅 2026-11-01 - Get app updates straight from the source
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Obtainium](https://github.com/ImranR98/Obtainium) ⭐ 21,182 | 🐛 372 | 🌐 Dart | 📅 2026-11-01 - Get app updates straight from the source
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/EtchDroid/EtchDroid](https://github.com/EtchDroid/EtchDroid) ⭐ 3,584 | 🐛 16 | 🌐 Kotlin | 📅 2026-10-31 - Create bootable Linux image USBs
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/EtchDroid/EtchDroid](https://github.com/EtchDroid/EtchDroid) ⭐ 3,585 | 🐛 16 | 🌐 Kotlin | 📅 2026-10-31 - Create bootable Linux image USBs
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) ⭐ 14,173 | 🐛 1,102 | 🌐 Kotlin | 📅 2026-11-02 - Email client
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) ⭐ 14,177 | 🐛 1,107 | 🌐 Kotlin | 📅 2026-11-03 - Email client
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/fast4x/RiMusic](https://github.com/fast4x/RiMusic) ⚠️ Archived - Multilingual YouTube Music streamer
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/crackededed/Xtra](https://github.com/crackededed/Xtra) ⭐ 2,333 | 🐛 195 | 🌐 Kotlin | 📅 2026-11-01 - Twitch player/browser
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/crackededed/Xtra](https://github.com/crackededed/Xtra) ⭐ 2,337 | 🐛 197 | 🌐 Kotlin | 📅 2026-11-01 - Twitch player/browser
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/twireapp/Twire](https://github.com/twireapp/Twire) ⭐ 1,308 | 🐛 112 | 🌐 Kotlin | 📅 2026-07-10 - Twitch player/browser
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/FossifyOrg/File-Manager](https://github.com/FossifyOrg/File-Manager) ⭐ 1,849 | 🐛 101 | 🌐 Kotlin | 📅 2026-11-02 - File manager
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/FossifyOrg/File-Manager](https://github.com/FossifyOrg/File-Manager) ⭐ 1,850 | 🐛 101 | 🌐 Kotlin | 📅 2026-11-03 - File manager
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) ⭐ 9,382 | 🐛 625 | 🌐 Kotlin | 📅 2026-10-15 - Material You file manager
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) ⭐ 9,384 | 🐛 626 | 🌐 Kotlin | 📅 2026-10-15 - Material You file manager
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) ⭐ 2,631 | 🐛 403 | 🌐 Java | 📅 2026-11-02 - Calendar app
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) ⭐ 2,631 | 🐛 404 | 🌐 Java | 📅 2026-11-02 - Calendar app
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mhss1/MyBrain](https://github.com/mhss1/MyBrain) ⭐ 2,231 | 🐛 91 | 🌐 Kotlin | 📅 2026-10-03 - All-in-one productivity app
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mhss1/MyBrain](https://github.com/mhss1/MyBrain) ⭐ 2,232 | 🐛 91 | 🌐 Kotlin | 📅 2026-10-03 - All-in-one productivity app
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) ⭐ 13,844 | 🐛 797 | 🌐 Java | 📅 2026-11-02 - Material You launcher
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) ⭐ 13,850 | 🐛 802 | 🌐 Java | 📅 2026-11-03 - Material You launcher
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/DroidWorksStudio/mLauncher](https://github.com/DroidWorksStudio/mLauncher) ⭐ 310 | 🐛 1 | 🌐 Kotlin | 📅 2026-11-02 - Minimal Launcher app
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/DroidWorksStudio/mLauncher](https://github.com/DroidWorksStudio/mLauncher) ⭐ 312 | 🐛 1 | 🌐 Kotlin | 📅 2026-11-03 - Minimal Launcher app
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/davidhealey/waistline](https://github.com/davidhealey/waistline) ⭐ 756 | 🐛 179 | 🌐 JavaScript | 📅 2026-10-21 - Calorie counter app
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/kaii-lb/LavenderPhotos](https://github.com/kaii-lb/LavenderPhotos/) ⭐ 695 | 🐛 56 | 🌐 Kotlin | 📅 2026-10-20 - Photo manager
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/kaii-lb/LavenderPhotos](https://github.com/kaii-lb/LavenderPhotos/) ⭐ 696 | 🐛 56 | 🌐 Kotlin | 📅 2026-10-20 - Photo manager
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) ⭐ 3,890 | 🐛 243 | 🌐 Kotlin | 📅 2026-10-17 - Backup manager
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) ⭐ 3,893 | 🐛 243 | 🌐 Kotlin | 📅 2026-10-17 - Backup manager
 
 ## iOS
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/khangduytran0/LiveContainer](https://github.com/khanhduytran0/LiveContainer) ⭐ 13,746 | 🐛 56 | 🌐 Swift | 📅 2026-10-17 - Run iOS apps in containers without installing it
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/khangduytran0/LiveContainer](https://github.com/khanhduytran0/LiveContainer) ⭐ 13,772 | 🐛 56 | 🌐 Swift | 📅 2026-10-17 - Run iOS apps in containers without installing it
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/SideStore/SideStore](https://github.com/SideStore/SideStore) ⭐ 7,203 | 🐛 122 | 🌐 Swift | 📅 2026-10-27 - AltStore alternative to sideload without a PC (iOS 14+)
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/SideStore/SideStore](https://github.com/SideStore/SideStore) ⭐ 7,222 | 🐛 124 | 🌐 Swift | 📅 2026-10-27 - AltStore alternative to sideload without a PC (iOS 14+)
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/opa334/TrollStore](https://github.com/opa334/TrollStore) ⭐ 22,506 | 🐛 50 | 🌐 Objective-C | 📅 2026-04-01 - Jailed iOS app that can install IPAs permanently (iOS 14-16.6.1, 17.0)
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/opa334/TrollStore](https://github.com/opa334/TrollStore) ⭐ 22,511 | 🐛 50 | 🌐 Objective-C | 📅 2026-04-01 - Jailed iOS app that can install IPAs permanently (iOS 14-16.6.1, 17.0)
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) ⭐ 4,500 | 🐛 13 | 🌐 Python | 📅 2025-04-07 - TrollStore IPA collection
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) ⭐ 4,501 | 🐛 13 | 🌐 Python | 📅 2025-04-07 - TrollStore IPA collection
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/c22dev/Geranium](https://github.com/c22dev/Geranium) ⭐ 736 | 🐛 9 | 🌐 Swift | 📅 2026-07-04 - Multi-purpose TrollStore app
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/c22dev/Geranium](https://github.com/c22dev/Geranium) ⭐ 740 | 🐛 9 | 🌐 Swift | 📅 2026-07-04 - Multi-purpose TrollStore app
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/khanhduytran0/SparseBox](https://github.com/khanhduytran0/SparseBox) ⭐ 609 | 🐛 68 | 🌐 C | 📅 2026-07-13 - Bypass 3 app sideload limit & more
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/khanhduytran0/SparseBox](https://github.com/khanhduytran0/SparseBox) ⭐ 610 | 🐛 68 | 🌐 C | 📅 2026-07-13 - Bypass 3 app sideload limit & more
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/leminlimez/Nugget](https://github.com/leminlimez/Nugget) ⭐ 7,392 | 🐛 214 | 🌐 Python | 📅 2026-09-24 - Jailed tweaks for 17.0-18.1b4
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/leminlimez/Nugget](https://github.com/leminlimez/Nugget) ⭐ 7,398 | 🐛 215 | 🌐 Python | 📅 2026-09-24 - Jailed tweaks for 17.0-18.1b4
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/opa334/Dopamine](https://github.com/opa334/Dopamine) ⭐ 7,178 | 🐛 106 | 🌐 C | 📅 2026-11-02 Semi-untethered jailbreak for iOS 15 and 16
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/opa334/Dopamine](https://github.com/opa334/Dopamine) ⭐ 7,202 | 🐛 106 | 🌐 C | 📅 2026-11-03 Semi-untethered jailbreak for iOS 15 and 16
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/itsjunetime/smserver](https://github.com/itsjunetime/smserver) ⭐ 180 | 🐛 36 | 🌐 Swift | 📅 2025-06-11 - \[JB] Send texts & attachments from browser
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/0xilis/LetMePass](https://github.com/0xilis/LetMePass) ⭐ 56 | 🐛 2 | 🌐 C | 📅 2025-03-23 - \[Tweak] Bypasses YouTube's version alert
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/0xilis/LetMePass](https://github.com/0xilis/LetMePass) ⭐ 57 | 🐛 2 | 🌐 C | 📅 2025-03-23 - \[Tweak] Bypasses YouTube's version alert
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/LNSSPsd/duckoff](https://github.com/LNSSPsd/duckoff) ⭐ 16 | 🐛 1 | 🌐 Objective-C | 📅 2024-05-26 - \[Tweak] Allows iOS keyboard to suggest/swipe-type swear words
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/hbang/NewTerm](https://github.com/hbang/NewTerm) ⭐ 578 | 🐛 42 | 🌐 Swift | 📅 2024-04-01 - Terminal emulator
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/straight/tamago/misaka](https://github.com/straight-tamago/misaka) ⭐ 2,797 | 🐛 252 | 🌐 CSS | 📅 2024-09-16 - iOS & tvOS customisation tool for KFD & MDC
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/straight/tamago/misaka](https://github.com/straight-tamago/misaka) ⭐ 2,796 | 🐛 252 | 🌐 CSS | 📅 2024-09-16 - iOS & tvOS customisation tool for KFD & MDC
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Dadoum/Sideloader](https://github.com/Dadoum/Sideloader) ⭐ 1,064 | 🐛 49 | 🌐 D | 📅 2026-09-18 - Cross-platform iOS app sideloader
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Dadoum/Sideloader](https://github.com/Dadoum/Sideloader) ⭐ 1,067 | 🐛 49 | 🌐 D | 📅 2026-09-18 - Cross-platform iOS app sideloader
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/utmapp/UTM](https://github.com/utmapp/UTM) ⭐ 36,655 | 🐛 1,152 | 🌐 Swift | 📅 2026-11-01 - Virtual machine for iOS and macOS
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/utmapp/UTM](https://github.com/utmapp/UTM) ⭐ 36,676 | 🐛 1,155 | 🌐 Swift | 📅 2026-11-01 - Virtual machine for iOS and macOS
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app) ⭐ 1,419 | 🐛 230 | 🌐 Dart | 📅 2026-11-01 - "Cross-platform" ecosystem of apps unifying iMessage
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app) ⭐ 1,419 | 🐛 236 | 🌐 Dart | 📅 2026-11-03 - "Cross-platform" ecosystem of apps unifying iMessage
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Dimilian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) ⭐ 7,102 | 🐛 590 | 🌐 Swift | 📅 2026-10-13 - Mastodon client
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Dimilian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) ⭐ 7,103 | 🐛 590 | 🌐 Swift | 📅 2026-10-13 - Mastodon client
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/iKenndac/Tofu](https://github.com/iKenndac/Tofu) ⭐ 538 | 🐛 51 | 🌐 Swift | 📅 2024-06-13 - 2FA app
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/qnblackcat/Downgrade-apps-on-AppStore](https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy) ⭐ 867 | 🐛 9 | 📅 2025-06-16 - Guide on downgrading apps
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/qnblackcat/Downgrade-apps-on-AppStore](https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy) ⭐ 868 | 🐛 9 | 📅 2025-06-16 - Guide on downgrading apps
 
 ## Windows
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ChrisTitus/Tech/winutil](https://github.com/ChrisTitusTech/winutil) ⭐ 65,437 | 🐛 37 | 🌐 PowerShell | 📅 2026-11-02 - Windows All-in-one utility
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ChrisTitus/Tech/winutil](https://github.com/ChrisTitusTech/winutil) ⭐ 65,481 | 🐛 32 | 🌐 PowerShell | 📅 2026-11-03 - Windows All-in-one utility
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/massgravel/Microsoft-Activation-Scripts/](https://github.com/massgravel/Microsoft-Activation-Scripts) ⭐ 197,425 | 🐛 6 | 🌐 Batchfile | 📅 2026-10-17 - Windows activation scripts
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/massgravel/Microsoft-Activation-Scripts/](https://github.com/massgravel/Microsoft-Activation-Scripts) ⭐ 197,558 | 🐛 9 | 🌐 Batchfile | 📅 2026-10-17 - Windows activation scripts
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/AutoHotKey/AutoHotKey](https://github.com/AutoHotkey/AutoHotkey) ⭐ 13,400 | 🐛 13 | 🌐 C++ | 📅 2026-10-27 - Automation scripting utility
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/AutoHotKey/AutoHotKey](https://github.com/AutoHotkey/AutoHotkey) ⭐ 13,411 | 🐛 13 | 🌐 C++ | 📅 2026-10-27 - Automation scripting utility
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) ⭐ 9,451 | 🐛 709 | 🌐 C++ | 📅 2026-10-17 - Windows Start menu replacement
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) ⭐ 9,454 | 🐛 709 | 🌐 C++ | 📅 2026-10-17 - Windows Start menu replacement
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) ⭐ 9,662 | 🐛 186 | 🌐 Rust | 📅 2026-11-01 - Windows customization marketplace
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) ⭐ 9,674 | 🐛 186 | 🌐 Rust | 📅 2026-11-01 - Windows customization marketplace
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) ⭐ 4,697 | 🐛 185 | 🌐 C++ | 📅 2026-10-29 - Advanced audio effect manager
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) ⭐ 4,702 | 🐛 185 | 🌐 C++ | 📅 2026-11-03 - Advanced audio effect manager
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/bmrf/tron](https://github.com/bmrf/tron) ⭐ 6,606 | 🐛 1 | 🌐 Batchfile | 📅 2026-10-30 - Automated Windows disinfection script
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/bmrf/tron](https://github.com/bmrf/tron) ⭐ 6,604 | 🐛 1 | 🌐 Batchfile | 📅 2026-10-30 - Automated Windows disinfection script
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/miniant-git/REAL](https://github.com/miniant-git/REAL) ⭐ 610 | 🐛 18 | 🌐 C++ | 📅 2022-06-02 - Reduce audio latency on Windows
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sabrogden/Ditto](https://github.com/sabrogden/Ditto) ⭐ 7,407 | 🐛 798 | 🌐 C | 📅 2026-10-01 - Windows clipboard extension
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sabrogden/Ditto](https://github.com/sabrogden/Ditto) ⭐ 7,417 | 🐛 798 | 🌐 C | 📅 2026-10-01 - Windows clipboard extension
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/jon-mil-92/DisplayHotKeys](https://github.com/jon-mil-92/DisplayHotKeys) ⭐ 70 | 🐛 4 | 🌐 Java | 📅 2026-11-01 - Apply display profiles using hotkeys
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) ⭐ 21,536 | 🐛 58 | 🌐 C# | 📅 2026-10-30 - Trimmed-down Win11 image build script
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) ⭐ 21,586 | 🐛 60 | 🌐 C# | 📅 2026-10-30 - Trimmed-down Win11 image build script
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/caoyue/WindowResizer](https://github.com/caoyue/WindowResizer) ⭐ 251 | 🐛 13 | 🌐 C# | 📅 2024-10-27 - Save/restore windows size/position with hotkeys
 
@@ -982,15 +982,15 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/UeharaYou/HiddenBar](https://github.com/UeharaYou/HiddenBar) - Hide menu bar items
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) ⭐ 16,472 | 🐛 93 | 🌐 Swift | 📅 2026-10-23 - Alt-Tab window switcher
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) ⭐ 16,485 | 🐛 94 | 🌐 Swift | 📅 2026-10-23 - Alt-Tab window switcher
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) ⭐ 12,078 | 🐛 438 | 🌐 Swift | 📅 2026-10-22 - Run iOS apps and games on Apple Silicon Macs
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) ⭐ 12,088 | 🐛 437 | 🌐 Swift | 📅 2026-10-22 - Run iOS apps and games on Apple Silicon Macs
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) ⭐ 20,002 | 🐛 9 | 🌐 C | 📅 2026-10-28 - Audio loopback driver
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) ⭐ 20,003 | 🐛 9 | 🌐 C | 📅 2026-10-28 - Audio loopback driver
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) ⭐ 19,370 | 🐛 543 | 🌐 C++ | 📅 2026-06-10 - Audio mixer
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) ⭐ 19,369 | 🐛 543 | 🌐 C++ | 📅 2026-06-10 - Audio mixer
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/koekeishiya/yabai](https://github.com/koekeishiya/yabai) ⭐ 29,800 | 🐛 274 | 🌐 C | 📅 2026-06-14 - Tiling window manager
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/koekeishiya/yabai](https://github.com/koekeishiya/yabai) ⭐ 29,804 | 🐛 274 | 🌐 C | 📅 2026-06-14 - Tiling window manager
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/chrissimpkins/Crunch](https://github.com/chrissimpkins/Crunch) ⭐ 3,426 | 🐛 11 | 🌐 Python | 📅 2022-06-18 - PNG file size optimizer
 
@@ -1002,27 +1002,27 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) ⭐ 5,344 | 🐛 28 | 🌐 Shell | 📅 2026-11-01 - Linux toolbox and utilities
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/autokey/autokey](https://github.com/autokey/autokey) ⭐ 3,903 | 🐛 301 | 🌐 Python | 📅 2026-11-01 - Scriptable automation utility, alternative to AHK
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/autokey/autokey](https://github.com/autokey/autokey) ⭐ 3,904 | 🐛 301 | 🌐 Python | 📅 2026-11-01 - Scriptable automation utility, alternative to AHK
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/robiot/xclicker](https://github.com/robiot/xclicker) ⭐ 646 | 🐛 27 | 🌐 C | 📅 2026-08-23 - Autoclicker for X11
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) ⭐ 9,221 | 🐛 340 | 🌐 C | 📅 2026-11-01 - Application overlay for monitoring resources
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) ⭐ 9,223 | 🐛 340 | 🌐 C | 📅 2026-11-01 - Application overlay for monitoring resources
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) ⭐ 1,581 | 🐛 93 | 🌐 Pascal | 📅 2026-11-02 - GUI for MangoHud and utilities
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) ⭐ 1,582 | 🐛 93 | 🌐 Pascal | 📅 2026-11-02 - GUI for MangoHud and utilities
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/domferr/Linux-PowerToys](https://github.com/domferr/Linux-PowerToys) ⭐ 675 | 🐛 28 | 🌐 Dart | 📅 2025-05-25 - PowerToys for GNOME
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mfat/systemd-pilot](https://github.com/mfat/systemd-pilot) ⭐ 268 | 🐛 13 | 🌐 Python | 📅 2026-10-11 - systemd service GUI manager
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mfat/systemd-pilot](https://github.com/mfat/systemd-pilot) ⭐ 269 | 🐛 13 | 🌐 Python | 📅 2026-10-11 - systemd service GUI manager
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/AreWeAntiCheatYet/AreWeAntiCheatYet](https://github.com/AreWeAntiCheatYet/AreWeAntiCheatYet) ⭐ 514 | 🐛 130 | 🌐 TypeScript | 📅 2026-10-24 - List of supported games w/ anticheat
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/qarmin/czkawka](https://github.com/qarmin/czkawka) ⭐ 34,779 | 🐛 313 | 🌐 Fluent | 📅 2026-11-02 - Remove unnecessary files from your computer
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/qarmin/czkawka](https://github.com/qarmin/czkawka) ⭐ 34,808 | 🐛 302 | 🌐 Fluent | 📅 2026-11-03 - Remove unnecessary files from your computer
 
 [<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/corectrl/corectrl](https://gitlab.com/corectrl/corectrl) - Profile based system control utility
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/dimtpap/coppwr](https://github.com/dimtpap/coppwr) ⭐ 652 | 🐛 16 | 🌐 Rust | 📅 2026-09-02 - GUI tool for PipeWire management
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/dimtpap/coppwr](https://github.com/dimtpap/coppwr) ⭐ 653 | 🐛 16 | 🌐 Rust | 📅 2026-09-02 - GUI tool for PipeWire management
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/wwmm/easyeffects](https://github.com/wwmm/easyeffects) ⭐ 10,444 | 🐛 280 | 🌐 HTML | 📅 2026-11-02 - PipeWIre audio effect manager
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/wwmm/easyeffects](https://github.com/wwmm/easyeffects) ⭐ 10,449 | 🐛 280 | 🌐 HTML | 📅 2026-11-03 - PipeWIre audio effect manager
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/saivert/pwvucontrol](https://github.com/saivert/pwvucontrol) ⭐ 704 | 🐛 24 | 🌐 Rust | 📅 2026-08-21 - PipeWire volume control
 
@@ -1034,11 +1034,11 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/rvaiya/keyd](https://github.com/rvaiya/keyd) ⭐ 6,093 | 🐛 335 | 🌐 C | 📅 2026-06-01  - Key remapping daemon
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) ⭐ 6,036 | 🐛 370 | 🌐 Python | 📅 2026-10-21 - Input device remapping tool
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) ⭐ 6,035 | 🐛 370 | 🌐 Python | 📅 2026-10-21 - Input device remapping tool
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/snyball/Hawck](https://github.com/snyball/Hawck) ⭐ 632 | 🐛 20 | 🌐 C++ | 📅 2024-05-03 - Scriptable key-rebinding
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) ⭐ 7,859 | 🐛 73 | 🌐 Python | 📅 2026-10-28 - Automatic CPU power optimizer
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) ⭐ 7,861 | 🐛 75 | 🌐 Python | 📅 2026-10-28 - Automatic CPU power optimizer
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/trigg/Discover](https://github.com/trigg/Discover) ⭐ 752 | 🐛 25 | 🌐 Python | 📅 2026-10-23 - Discord overlay
 
@@ -1046,37 +1046,37 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/JoseExposito/touche](https://github.com/JoseExposito/touche) ⭐ 655 | 🐛 15 | 🌐 JavaScript | 📅 2025-08-02 - GUI for Touchegg
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) ⭐ 8,424 | 🐛 207 | 🌐 C++ | 📅 2026-10-04 - AppImage integration
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) ⭐ 8,425 | 🐛 207 | 🌐 C++ | 📅 2026-10-04 - AppImage integration
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) ⭐ 6,976 | 🐛 1,843 | 🌐 Just | 📅 2026-10-20 - Cosmic DE
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) ⭐ 6,977 | 🐛 1,844 | 🌐 Just | 📅 2026-10-20 - Cosmic DE
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) ⭐ 39,929 | 🐛 192 | 🌐 C++ | 📅 2026-11-02 - that one wm..
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) ⭐ 40,225 | 🐛 192 | 🌐 C++ | 📅 2026-11-03 - that one wm..
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/swaywm/sway](https://github.com/swaywm/sway/) ⭐ 17,476 | 🐛 1,414 | 🌐 C | 📅 2026-09-21 - i3-compatible Wayland WM
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/swaywm/sway](https://github.com/swaywm/sway/) ⭐ 17,480 | 🐛 1,415 | 🌐 C | 📅 2026-09-21 - i3-compatible Wayland WM
 
 [<img src="https://icon.horse/icon/codeberg.org" height="20px" align="center"/>/river/river](https://codeberg.org/river/river) - Wayland tiling WM
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/YaLTeR/niri](https://github.com/YaLTeR/niri) ⭐ 28,855 | 🐛 403 | 🌐 Rust | 📅 2026-10-31 - Scrollable-tiling Wayland WM
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/YaLTeR/niri](https://github.com/YaLTeR/niri) ⭐ 28,879 | 🐛 403 | 🌐 Rust | 📅 2026-10-31 - Scrollable-tiling Wayland WM
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) ⭐ 3,068 | 🐛 128 | 🌐 C++ | 📅 2026-10-29 - 3D Wayland compositor
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) ⭐ 3,069 | 🐛 128 | 🌐 C++ | 📅 2026-10-29 - 3D Wayland compositor
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/cococry/ragnar](https://github.com/cococry/ragnar) ⭐ 1,250 | 🐛 14 | 🌐 C | 📅 2026-09-10 - X tiling window manager
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/dunst-project/dunst](https://github.com/dunst-project/dunst) ⭐ 5,625 | 🐛 121 | 🌐 C | 📅 2026-10-25 - Customizable notification daemon
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/dunst-project/dunst](https://github.com/dunst-project/dunst) ⭐ 5,624 | 🐛 122 | 🌐 C | 📅 2026-10-25 - Customizable notification daemon
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/emersion/mako](https://github.com/emersion/mako) ⭐ 3,294 | 🐛 140 | 🌐 C | 📅 2026-10-29 -  Wayland notification daemon
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/emersion/mako](https://github.com/emersion/mako) ⭐ 3,295 | 🐛 140 | 🌐 C | 📅 2026-10-29 -  Wayland notification daemon
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/LGFae/swww](https://github.com/LGFae/swww/) ⚠️ Archived - Wayland wallpaper daemon
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/eugenenoble2005/swengine](https://github.com/eugenenoble2005/swengine) ⚠️ Archived - Live wallpaper downloader for swww
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper) ⭐ 1,353 | 🐛 54 | 🌐 C++ | 📅 2026-11-01 -  Wayland wallpaper utility
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper) ⭐ 1,354 | 🐛 54 | 🌐 C++ | 📅 2026-11-01 -  Wayland wallpaper utility
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/anufrievroman/waypaper](https://github.com/anufrievroman/waypaper) ⭐ 1,079 | 🐛 16 | 🌐 Python | 📅 2026-10-28 - GUI wallpaper manager for Wayland
 
 [<img src="https://icon.horse/icon/codeberg.org" height="20px" align="center"/>/dnkl/yambar](https://codeberg.org/dnkl/yambar) - Lightweight status bar for Wayland and X11
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/polybar/polybar](https://github.com/polybar/polybar) ⭐ 15,368 | 🐛 235 | 🌐 C++ | 📅 2025-09-24 - Customizable status bar
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/polybar/polybar](https://github.com/polybar/polybar) ⭐ 15,369 | 🐛 235 | 🌐 C++ | 📅 2025-09-24 - Customizable status bar
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Jas-SinghFSU/HyprPanel](https://github.com/Jas-SinghFSU/HyprPanel) ⚠️ Archived - Extensive bar for Hyprland
 
@@ -1086,7 +1086,7 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/gitlab.com" height="16px" align="center"/>/screenkey/screenkey](https://gitlab.com/screenkey/screenkey) - Screencast tool to display your keys
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/davatorium/rofi](https://github.com/davatorium/rofi) ⭐ 16,514 | 🐛 115 | 🌐 C | 📅 2026-10-31 - Application launcher
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/davatorium/rofi](https://github.com/davatorium/rofi) ⭐ 16,519 | 🐛 115 | 🌐 C | 📅 2026-10-31 - Application launcher
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/fdw/rofimoji](https://github.com/fdw/rofimoji) ⭐ 1,096 | 🐛 1 | 🌐 Python | 📅 2026-10-23 - Emoji picker for rofi
 
@@ -1094,13 +1094,13 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/e-tho/iwmenu](https://github.com/e-tho/iwmenu) ⭐ 468 | 🐛 5 | 🌐 Rust | 📅 2026-08-26 - Network management menu
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/xrelkd/clipcat](https://github.com/xrelkd/clipcat) ⭐ 612 | 🐛 26 | 🌐 Rust | 📅 2026-11-02 - Clipboard manager
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/xrelkd/clipcat](https://github.com/xrelkd/clipcat) ⭐ 613 | 🐛 25 | 🌐 Rust | 📅 2026-11-03 - Clipboard manager
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mijorus/smile](https://github.com/mijorus/smile) ⭐ 462 | 🐛 43 | 🌐 Python | 📅 2026-04-22 -  Emoji picker
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/jtheoff/swappy](https://github.com/jtheoof/swappy) ⭐ 1,516 | 🐛 48 | 🌐 C | 📅 2026-10-15 - Wayland native snapshot editing tool
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/cfgnunes/nautilus-scripts](https://github.com/cfgnunes/nautilus-scripts) ⭐ 693 | 🐛 2 | 🌐 Shell | 📅 2026-11-03 - Various file manager scripts
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/cfgnunes/nautilus-scripts](https://github.com/cfgnunes/nautilus-scripts) ⭐ 694 | 🐛 2 | 🌐 Shell | 📅 2026-11-03 - Various file manager scripts
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/jesusferm/Nautilus-43-BackSpace](https://github.com/jesusferm/Nautilus-43-BackSpace) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2026-03-15 - Re-enable backspace bind for Nautilus
 
@@ -1122,7 +1122,7 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/euclio/fm](https://github.com/euclio/fm) ⭐ 251 | 🐛 47 | 🌐 Rust | 📅 2025-03-23 - Simple GTK4 file manager
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/chubin/cheat.sh](https://github.com/chubin/cheat.sh) ⭐ 41,845 | 🐛 150 | 🌐 Python | 📅 2026-09-22 - Cheatsheet for commands
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/chubin/cheat.sh](https://github.com/chubin/cheat.sh) ⭐ 41,844 | 🐛 149 | 🌐 Python | 📅 2026-09-22 - Cheatsheet for commands
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/edisionnano/QDiskInfo](https://github.com/edisionnano/QDiskInfo) ⭐ 714 | 🐛 29 | 🌐 C++ | 📅 2025-11-19 - Disk drive analysis tool
 
@@ -1140,21 +1140,21 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/astralapp/astral](https://github.com/astralapp/astral) ⭐ 3,594 | 🐛 40 | 🌐 PHP | 📅 2026-10-29 - GitHub Stars organizer
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/download-directory/download-directory](https://github.com/download-directory/download-directory.github.io) ⭐ 1,897 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-13 - Download GitHub repo directories
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/download-directory/download-directory](https://github.com/download-directory/download-directory.github.io) ⭐ 1,898 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-13 - Download GitHub repo directories
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) ⭐ 3,364 | 🐛 37 | 🌐 Python | 📅 2024-10-21 - AI file organizer
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) ⭐ 3,362 | 🐛 37 | 🌐 Python | 📅 2024-10-21 - AI file organizer
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) ⭐ 6,873 | 🐛 2 | 📅 2026-11-02 - Community list of open source alternatives
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) ⭐ 6,876 | 🐛 2 | 📅 2026-11-03 - Community list of open source alternatives
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/rhasspy/piper](https://github.com/rhasspy/piper) ⚠️ Archived - Local neural text to speech system
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Elleo/pied](https://github.com/Elleo/pied) ⭐ 304 | 🐛 26 | 🌐 Dart | 📅 2026-10-24 - Piper TTS voice manager
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Elleo/pied](https://github.com/Elleo/pied) ⭐ 305 | 🐛 26 | 🌐 Dart | 📅 2026-10-24 - Piper TTS voice manager
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/redpenguinyt/display3d](https://github.com/redpenguinyt/display3d) ⭐ 461 | 🐛 1 | 🌐 Rust | 📅 2026-09-16 - CLI for rendering and animating 3D objects
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/TNTwise/REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) ⭐ 2,380 | 🐛 32 | 🌐 Python | 📅 2026-10-30 - Interpolate and upscale videos on Linux/MacOS
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/TNTwise/REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) ⭐ 2,382 | 🐛 32 | 🌐 Python | 📅 2026-10-30 - Interpolate and upscale videos on Linux/MacOS
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/vosen/ZLUDA](https://github.com/vosen/ZLUDA) ⭐ 15,160 | 🐛 163 | 🌐 Rust | 📅 2026-11-02 - CUDA on ??? GPUs
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/vosen/ZLUDA](https://github.com/vosen/ZLUDA) ⭐ 15,157 | 🐛 163 | 🌐 Rust | 📅 2026-11-03 - CUDA on ??? GPUs
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) ⭐ 6,845 | 🐛 157 | 📅 2026-05-06 - Repo for all of the kawaii logos made by Sawaratsuki
 
@@ -1168,7 +1168,7 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ayushpai/AI-Math-Notes](https://github.com/ayushpai/AI-Math-Notes) ⭐ 508 | 🐛 0 | 🌐 Python | 📅 2024-06-15 - Open-source Apple Math Notes
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/theJayTea/WritingTools](https://github.com/theJayTea/WritingTools) ⭐ 2,479 | 🐛 85 | 🌐 Swift | 📅 2026-08-19 - Apple Intelligence Writing Tools for Windows
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/theJayTea/WritingTools](https://github.com/theJayTea/WritingTools) ⭐ 2,480 | 🐛 85 | 🌐 Swift | 📅 2026-08-19 - Apple Intelligence Writing Tools for Windows
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/neodrama/github-drama](https://github.com/neodrama/github-drama) ⭐ 372 | 🐛 2 | 📅 2026-10-04 - Funny Github drama
 
@@ -1176,31 +1176,31 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/daspartho/is-it-huggable](https://github.com/daspartho/is-it-huggable) ⭐ 28 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-11-28 - Analyzes images to determine if it is huggable
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) ⭐ 6,722 | 🐛 9 | 📅 2026-10-16 - Self-hostable Discord compatible communication platform
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) ⭐ 6,723 | 🐛 9 | 📅 2026-10-16 - Self-hostable Discord compatible communication platform
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/furkanonder/karbon](https://github.com/furkanonder/karbon) ⭐ 276 | 🐛 1 | 🌐 Python | 📅 2025-09-22 - Turn mouse events into art
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/richiehowelll/cat-lock](https://github.com/richiehowelll/cat-lock) ⭐ 61 | 🐛 8 | 🌐 Python | 📅 2026-06-02 - Lock keyboard from cat
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/is-a-dev/register](https://github.com/is-a-dev/register) ⭐ 11,727 | 🐛 25 | 🌐 JavaScript | 📅 2026-11-03 -  '.is-a.dev' subdomain
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/is-a-dev/register](https://github.com/is-a-dev/register) ⭐ 11,741 | 🐛 113 | 🌐 JavaScript | 📅 2026-11-03 -  '.is-a.dev' subdomain
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) ⭐ 1,786 | 🐛 25 | 🌐 HTML | 📅 2026-11-01 -  Huge amount of services that are free
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) ⭐ 1,786 | 🐛 27 | 🌐 HTML | 📅 2026-11-01 -  Huge amount of services that are free
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/HeyPuter/puter](https://github.com/HeyPuter/puter) ⭐ 44,064 | 🐛 46 | 🌐 TypeScript | 📅 2026-11-02 - Internet OS
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/HeyPuter/puter](https://github.com/HeyPuter/puter) ⭐ 44,072 | 🐛 49 | 🌐 TypeScript | 📅 2026-11-03 - Internet OS
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/AsteroidOS/asteroid](https://github.com/AsteroidOS/asteroid) ⭐ 1,076 | 🐛 73 | 🌐 Shell | 📅 2026-11-01 - Alternate smartwatch OS
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/AsteroidOS/asteroid](https://github.com/AsteroidOS/asteroid) ⭐ 1,075 | 🐛 73 | 🌐 Shell | 📅 2026-11-01 - Alternate smartwatch OS
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,656 | 🐛 256 | 📅 2024-06-25 - Master the command line
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,663 | 🐛 256 | 📅 2024-06-25 - Master the command line
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/andersonkrs/malheatmap](https://github.com/andersonkrs/malheatmap) ⭐ 115 | 🐛 16 | 🌐 Ruby | 📅 2026-09-29 - MyAnimeList activity heatmap
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ldreeslnc/Monocraft](https://github.com/IdreesInc/Monocraft) ⭐ 11,461 | 🐛 37 | 🌐 Python | 📅 2026-05-27 - Monospaced Minecraft font
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/ldreeslnc/Monocraft](https://github.com/IdreesInc/Monocraft) ⭐ 11,462 | 🐛 37 | 🌐 Python | 📅 2026-05-27 - Monospaced Minecraft font
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/OptiKey/OptiKey](https://github.com/OptiKey/OptiKey) ⭐ 4,427 | 🐛 127 | 🌐 C# | 📅 2026-09-03 - Helps Motor Neuron Disease patients interact with their PC
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/WaviestBalloon/MyNameIsWalterHartwellWhite](https://github.com/WaviestBalloon/MyNameIsWalterHartwellWhite) ⭐ 43 | 🐛 2 | 🌐 TypeScript | 📅 2026-01-29 - waltuh
 
-[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/orhun/binsider](https://github.com/orhun/binsider) ⭐ 4,511 | 🐛 38 | 🌐 Rust | 📅 2026-11-01 - Binary analyzer
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/orhun/binsider](https://github.com/orhun/binsider) ⭐ 4,513 | 🐛 38 | 🌐 Rust | 📅 2026-11-01 - Binary analyzer
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/geekuillaume/soundsync](https://github.com/geekuillaume/soundsync) ⚠️ Archived - Virtual cables between any audio source
 
